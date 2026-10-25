@@ -1,0 +1,1221 @@
+transaction_id,date,type,category,amount,payment_method,merchant,city,account,is_recurring,subcategory
+500000,2023-01-01,Income,Salary,74848,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500842,2023-01-01,Expense,Groceries,600,Net Banking,BigBasket,Mumbai,Salary Account,0,Essential
+500656,2023-01-01,Expense,Entertainment,816,UPI,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500381,2023-01-02,Expense,Shopping,748,Cash,Amazon,Pune,Salary Account,0,Lifestyle
+500001,2023-01-05,Expense,Rent,13962,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500655,2023-01-05,Income,Freelance,6155,Credit Card,Fiverr,Delhi,Credit Card Account,0,Income
+500875,2023-01-06,Expense,Dining Out,743,UPI,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500002,2023-01-07,Expense,Loan EMI,5954,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500809,2023-01-07,Income,Investment Returns,4443,Debit Card,Stock Dividend,Bengaluru,Salary Account,0,Income
+500385,2023-01-07,Expense,Rent,14217,Cash,Landlord Transfer,Bengaluru,Primary Savings,0,Essential
+500761,2023-01-09,Income,Interest,169,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500524,2023-01-10,Expense,Insurance,2258,UPI,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500959,2023-01-11,Expense,Transport,748,Debit Card,Uber,Mumbai,Primary Savings,0,Essential
+501107,2023-01-11,Expense,Education,922,Cash,Coursera,Mumbai,Salary Account,0,Essential
+501108,2023-01-11,Income,Investment Returns,2598,UPI,Mutual Fund,Mumbai,Salary Account,0,Income
+500569,2023-01-12,Expense,Transport,375,Debit Card,Uber,Mumbai,Primary Savings,0,Essential
+500956,2023-01-12,Expense,Dining Out,341,Net Banking,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+501111,2023-01-12,Expense,Healthcare,907,UPI,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500283,2023-01-13,Expense,Healthcare,1650,Cash,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500629,2023-01-13,Income,Investment Returns,2962,Net Banking,Stock Dividend,Mumbai,Primary Savings,0,Income
+500123,2023-01-17,Expense,Fitness,880,Debit Card,Sports Store,Delhi,Salary Account,0,Lifestyle
+500238,2023-01-19,Expense,Groceries,1243,Net Banking,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+500196,2023-01-19,Expense,Dining Out,733,Credit Card,Zomato,Mumbai,Credit Card Account,0,Lifestyle
+500996,2023-01-21,Expense,Healthcare,993,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500475,2023-01-22,Expense,Loan EMI,4524,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500861,2023-01-24,Expense,Groceries,1375,Debit Card,DMart,Mumbai,Primary Savings,0,Essential
+500630,2023-01-24,Expense,Fitness,549,Debit Card,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500913,2023-01-25,Expense,Utilities,1843,Cash,Water Dept,Mumbai,Salary Account,0,Essential
+500733,2023-01-25,Expense,Insurance,1593,Debit Card,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500364,2023-01-29,Expense,Shopping,827,UPI,Myntra,Bengaluru,Salary Account,0,Lifestyle
+501211,2023-01-29,Expense,Entertainment,236,Cash,Spotify,Mumbai,Salary Account,0,Lifestyle
+500834,2023-01-29,Expense,Entertainment,242,Credit Card,Netflix,Mumbai,Credit Card Account,0,Lifestyle
+501196,2023-01-31,Expense,Dining Out,627,UPI,Zomato,Mumbai,Salary Account,0,Lifestyle
+500003,2023-02-01,Income,Salary,71539,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500350,2023-02-02,Expense,Subscriptions,347,UPI,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+500658,2023-02-02,Expense,Groceries,446,UPI,Local Kirana,Mumbai,Salary Account,0,Essential
+500583,2023-02-03,Expense,Subscriptions,246,Net Banking,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+501095,2023-02-04,Expense,Dining Out,208,Cash,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500004,2023-02-05,Expense,Rent,14068,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500302,2023-02-05,Expense,Entertainment,761,Net Banking,Netflix,Mumbai,Salary Account,0,Lifestyle
+500005,2023-02-07,Expense,Loan EMI,4660,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500731,2023-02-08,Expense,Dining Out,374,Cash,Cafe Coffee Day,Mumbai,Salary Account,0,Lifestyle
+500179,2023-02-08,Expense,Groceries,745,Credit Card,Local Kirana,Mumbai,Credit Card Account,0,Essential
+500976,2023-02-09,Expense,Shopping,867,Cash,Flipkart,Mumbai,Salary Account,0,Lifestyle
+500395,2023-02-09,Expense,Entertainment,848,Cash,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500592,2023-02-09,Expense,Loan EMI,5473,UPI,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500535,2023-02-10,Expense,Rent,12185,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+501062,2023-02-10,Expense,Groceries,1146,Credit Card,BigBasket,Mumbai,Credit Card Account,0,Essential
+500167,2023-02-10,Expense,Fitness,900,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500774,2023-02-11,Income,Freelance,9490,Debit Card,Fiverr,Mumbai,Primary Savings,0,Income
+501158,2023-02-12,Expense,Education,1706,Cash,Tuition Fees,Mumbai,Salary Account,0,Essential
+500816,2023-02-13,Expense,Insurance,1266,Debit Card,Health Insurance Co,Mumbai,Salary Account,0,Essential
+501115,2023-02-13,Expense,Dining Out,309,UPI,Cafe Coffee Day,Bengaluru,Primary Savings,0,Lifestyle
+500517,2023-02-14,Income,Freelance,8105,UPI,Fiverr,Mumbai,Salary Account,0,Income
+500784,2023-02-14,Income,Interest,935,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500398,2023-02-15,Expense,Utilities,1535,Credit Card,Internet Provider,Mumbai,Credit Card Account,0,Essential
+500991,2023-02-16,Expense,Utilities,1036,Debit Card,Electricity Board,Mumbai,Salary Account,0,Essential
+500522,2023-02-16,Expense,Insurance,1941,Cash,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500600,2023-02-18,Expense,Healthcare,766,Debit Card,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500482,2023-02-23,Income,Freelance,2725,Credit Card,Direct Client,Mumbai,Credit Card Account,0,Income
+501164,2023-02-24,Expense,Subscriptions,639,Net Banking,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500153,2023-02-25,Expense,Travel,4531,Debit Card,MakeMyTrip,Pune,Salary Account,0,Lifestyle
+500266,2023-02-27,Expense,Insurance,2159,Net Banking,LIC Premium,Hyderabad,Primary Savings,0,Essential
+500717,2023-02-27,Expense,Dining Out,212,Debit Card,Cafe Coffee Day,Mumbai,Salary Account,0,Lifestyle
+500006,2023-03-01,Income,Salary,71867,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500643,2023-03-02,Expense,Subscriptions,177,Credit Card,Amazon Prime,Mumbai,Credit Card Account,0,Lifestyle
+500507,2023-03-04,Expense,Travel,4950,Debit Card,IRCTC,Mumbai,Salary Account,0,Lifestyle
+500007,2023-03-05,Expense,Rent,13519,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500247,2023-03-05,Expense,Shopping,446,Debit Card,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500915,2023-03-06,Expense,Fitness,1024,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500530,2023-03-06,Expense,Transport,867,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+501118,2023-03-07,Expense,Travel,3506,Cash,Hotel Booking,Pune,Salary Account,0,Lifestyle
+500008,2023-03-07,Expense,Loan EMI,4897,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501202,2023-03-07,Expense,Rent,12413,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+501078,2023-03-08,Expense,Fitness,758,Cash,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500661,2023-03-08,Income,Freelance,7894,Credit Card,Fiverr,Bengaluru,Credit Card Account,0,Income
+500559,2023-03-09,Expense,Transport,360,Net Banking,Uber,Mumbai,Salary Account,0,Essential
+500999,2023-03-10,Expense,Education,676,Cash,Coursera,Mumbai,Primary Savings,0,Essential
+500437,2023-03-10,Expense,Travel,2146,Cash,IRCTC,Mumbai,Primary Savings,0,Lifestyle
+500409,2023-03-10,Expense,Entertainment,365,Net Banking,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+501027,2023-03-10,Expense,Subscriptions,308,Credit Card,Amazon Prime,Mumbai,Credit Card Account,0,Lifestyle
+500577,2023-03-11,Expense,Subscriptions,159,UPI,Amazon Prime,Pune,Salary Account,0,Lifestyle
+500984,2023-03-11,Expense,Entertainment,462,Debit Card,Netflix,Mumbai,Salary Account,0,Lifestyle
+500603,2023-03-11,Expense,Transport,489,Cash,Petrol Pump,Mumbai,Primary Savings,0,Essential
+500442,2023-03-12,Expense,Rent,12127,Cash,Landlord Transfer,Delhi,Salary Account,0,Essential
+500138,2023-03-12,Expense,Loan EMI,5386,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500831,2023-03-12,Income,Interest,327,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500838,2023-03-13,Expense,Fitness,1072,Cash,Sports Store,Delhi,Primary Savings,0,Lifestyle
+500957,2023-03-15,Expense,Loan EMI,5553,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500610,2023-03-16,Expense,Shopping,1573,Cash,Amazon,Mumbai,Salary Account,0,Lifestyle
+500805,2023-03-16,Income,Investment Returns,2210,Cash,Mutual Fund,Mumbai,Salary Account,0,Income
+501025,2023-03-17,Expense,Dining Out,423,UPI,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+500254,2023-03-17,Expense,Fitness,734,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500451,2023-03-17,Expense,Travel,2608,Cash,Airline Booking,Mumbai,Salary Account,0,Lifestyle
+500548,2023-03-18,Income,Freelance,4677,Net Banking,Direct Client,Mumbai,Salary Account,0,Income
+501119,2023-03-18,Expense,Groceries,1215,Net Banking,BigBasket,Mumbai,Primary Savings,0,Essential
+500975,2023-03-18,Expense,Loan EMI,3396,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500693,2023-03-20,Expense,Education,2145,Debit Card,Udemy,Mumbai,Primary Savings,0,Essential
+500468,2023-03-22,Expense,Transport,722,Cash,Metro Card,Mumbai,Salary Account,0,Essential
+501181,2023-03-22,Expense,Rent,13387,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+501106,2023-03-22,Income,Freelance,3375,Credit Card,Direct Client,Mumbai,Credit Card Account,0,Income
+500942,2023-03-23,Expense,Education,2595,Cash,Book Store,Mumbai,Primary Savings,0,Essential
+500855,2023-03-23,Expense,Insurance,1822,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+500392,2023-03-23,Income,Investment Returns,2441,Net Banking,Mutual Fund,Mumbai,Primary Savings,0,Income
+500706,2023-03-23,Expense,Rent,13895,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500404,2023-03-25,Expense,Education,1205,Cash,Udemy,Mumbai,Salary Account,0,Essential
+500423,2023-03-26,Expense,Fitness,735,Net Banking,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500264,2023-03-27,Expense,Insurance,1876,Debit Card,LIC Premium,Mumbai,Salary Account,0,Essential
+501028,2023-03-27,Expense,Loan EMI,4963,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500009,2023-03-28,Income,Bonus,12015,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500191,2023-03-28,Expense,Education,1449,Cash,Tuition Fees,Mumbai,Primary Savings,0,Essential
+500462,2023-03-28,Income,Freelance,9909,Debit Card,Direct Client,Mumbai,Primary Savings,0,Income
+500602,2023-03-28,Expense,Transport,214,Net Banking,Ola,Mumbai,Salary Account,0,Essential
+500363,2023-03-30,Expense,Transport,643,Net Banking,Ola,Hyderabad,Salary Account,0,Essential
+500526,2023-03-30,Expense,Fitness,1001,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500935,2023-03-30,Expense,Insurance,1520,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500010,2023-04-01,Income,Salary,69134,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500998,2023-04-02,Expense,Subscriptions,623,Net Banking,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500866,2023-04-02,Expense,Travel,2346,Debit Card,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500700,2023-04-02,Expense,Travel,1965,Debit Card,Hotel Booking,Hyderabad,Salary Account,0,Lifestyle
+500673,2023-04-03,Expense,Utilities,991,UPI,Internet Provider,Mumbai,Salary Account,0,Essential
+501063,2023-04-03,Income,Interest,942,Debit Card,Savings Bank,Mumbai,Primary Savings,0,Income
+501180,2023-04-03,Expense,Dining Out,441,Net Banking,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500360,2023-04-04,Expense,Dining Out,424,Debit Card,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500319,2023-04-05,Income,Freelance,7522,Cash,Upwork,Mumbai,Salary Account,0,Income
+500011,2023-04-05,Expense,Rent,12953,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+501091,2023-04-06,Expense,Shopping,1401,Net Banking,Local Mall,Mumbai,Salary Account,0,Lifestyle
+500012,2023-04-07,Expense,Loan EMI,5342,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500454,2023-04-08,Expense,Dining Out,643,Net Banking,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500420,2023-04-08,Expense,Fitness,460,Net Banking,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500169,2023-04-09,Expense,Groceries,623,Cash,DMart,Mumbai,Primary Savings,0,Essential
+500830,2023-04-12,Expense,Education,2560,Cash,Udemy,Mumbai,Salary Account,0,Essential
+500195,2023-04-13,Expense,Subscriptions,434,Cash,Amazon Prime,Pune,Primary Savings,0,Lifestyle
+500967,2023-04-13,Expense,Loan EMI,4020,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500228,2023-04-14,Expense,Utilities,785,Cash,Water Dept,Mumbai,Primary Savings,0,Essential
+500339,2023-04-15,Expense,Rent,13387,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+501093,2023-04-17,Expense,Rent,14098,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500780,2023-04-17,Expense,Rent,12592,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500299,2023-04-17,Expense,Rent,14969,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500726,2023-04-18,Expense,Utilities,1150,Debit Card,Internet Provider,Hyderabad,Salary Account,0,Essential
+501123,2023-04-19,Expense,Groceries,823,Cash,DMart,Mumbai,Salary Account,0,Essential
+500948,2023-04-20,Expense,Travel,5057,UPI,MakeMyTrip,Mumbai,Salary Account,0,Lifestyle
+500713,2023-04-21,Expense,Groceries,887,Debit Card,BigBasket,Mumbai,Primary Savings,0,Essential
+500921,2023-04-21,Expense,Groceries,970,Credit Card,BigBasket,Mumbai,Credit Card Account,0,Essential
+500604,2023-04-22,Expense,Loan EMI,4740,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500932,2023-04-23,Expense,Utilities,1626,UPI,Gas Agency,Mumbai,Primary Savings,0,Essential
+500477,2023-04-25,Expense,Healthcare,1174,Cash,Hospital Visit,Bengaluru,Primary Savings,0,Essential
+500847,2023-04-27,Expense,Fitness,451,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500217,2023-04-27,Expense,Groceries,843,UPI,Local Kirana,Mumbai,Salary Account,0,Essential
+500182,2023-04-30,Expense,Insurance,1977,Net Banking,LIC Premium,Bengaluru,Primary Savings,0,Essential
+500145,2023-05-01,Expense,Dining Out,897,Debit Card,Cafe Coffee Day,Mumbai,Primary Savings,0,Lifestyle
+500013,2023-05-01,Income,Salary,68693,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500316,2023-05-04,Expense,Subscriptions,563,Cash,YouTube Premium,Pune,Primary Savings,0,Lifestyle
+501173,2023-05-04,Income,Investment Returns,1760,UPI,Mutual Fund,Mumbai,Primary Savings,0,Income
+500734,2023-05-04,Income,Investment Returns,2445,UPI,Stock Dividend,Mumbai,Salary Account,0,Income
+500014,2023-05-05,Expense,Rent,14522,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500907,2023-05-05,Expense,Dining Out,441,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+501176,2023-05-06,Income,Interest,618,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500323,2023-05-06,Expense,Shopping,1295,Debit Card,Myntra,Bengaluru,Salary Account,0,Lifestyle
+500226,2023-05-07,Expense,Travel,2615,Credit Card,IRCTC,Mumbai,Credit Card Account,0,Lifestyle
+500015,2023-05-07,Expense,Loan EMI,4309,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500544,2023-05-08,Expense,Education,786,Net Banking,Udemy,Mumbai,Salary Account,0,Essential
+500890,2023-05-09,Expense,Travel,3490,Net Banking,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+501125,2023-05-09,Expense,Education,2172,Net Banking,Book Store,Mumbai,Salary Account,0,Essential
+501216,2023-05-11,Expense,Shopping,694,Credit Card,Flipkart,Mumbai,Credit Card Account,0,Lifestyle
+500126,2023-05-11,Expense,Transport,513,Credit Card,Metro Card,Mumbai,Credit Card Account,0,Essential
+500622,2023-05-11,Expense,Loan EMI,4835,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+501085,2023-05-11,Expense,Transport,623,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500580,2023-05-12,Income,Freelance,10719,Cash,Fiverr,Mumbai,Primary Savings,0,Income
+500463,2023-05-14,Income,Freelance,8110,Credit Card,Fiverr,Mumbai,Credit Card Account,0,Income
+500729,2023-05-18,Expense,Loan EMI,5829,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+501110,2023-05-19,Expense,Subscriptions,447,Net Banking,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500697,2023-05-21,Expense,Fitness,500,Cash,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500623,2023-05-21,Income,Interest,918,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500708,2023-05-21,Expense,Travel,5412,Credit Card,Airline Booking,Mumbai,Credit Card Account,0,Lifestyle
+500389,2023-05-21,Expense,Loan EMI,4293,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500769,2023-05-21,Expense,Education,907,Cash,Udemy,Mumbai,Primary Savings,0,Essential
+500327,2023-05-23,Expense,Dining Out,848,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+501195,2023-05-23,Expense,Rent,12199,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500823,2023-05-23,Expense,Insurance,2360,UPI,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500279,2023-05-23,Expense,Transport,160,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500924,2023-05-23,Income,Investment Returns,3994,UPI,Mutual Fund,Mumbai,Salary Account,0,Income
+500905,2023-05-24,Expense,Shopping,1425,Debit Card,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500291,2023-05-25,Income,Freelance,4850,Debit Card,Fiverr,Bengaluru,Primary Savings,0,Income
+500307,2023-05-25,Expense,Healthcare,1184,Debit Card,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500144,2023-05-26,Expense,Rent,14777,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500121,2023-05-28,Expense,Utilities,1322,Net Banking,Gas Agency,Mumbai,Salary Account,0,Essential
+501122,2023-05-28,Expense,Healthcare,1317,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500142,2023-05-30,Income,Freelance,2977,Cash,Fiverr,Mumbai,Salary Account,0,Income
+500606,2023-05-30,Income,Interest,487,Cash,Savings Bank,Mumbai,Salary Account,0,Income
+500016,2023-06-01,Income,Salary,68558,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+500803,2023-06-03,Expense,Transport,812,Net Banking,Metro Card,Mumbai,Salary Account,0,Essential
+500221,2023-06-04,Expense,Insurance,1358,Cash,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500556,2023-06-05,Expense,Education,510,Cash,Book Store,Mumbai,Salary Account,0,Essential
+500702,2023-06-05,Expense,Travel,4375,Net Banking,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500017,2023-06-05,Expense,Rent,14842,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500127,2023-06-05,Expense,Fitness,1078,Cash,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500018,2023-06-07,Expense,Loan EMI,2974,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501116,2023-06-08,Expense,Transport,305,Credit Card,Petrol Pump,Mumbai,Credit Card Account,0,Essential
+500248,2023-06-08,Expense,Fitness,995,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500161,2023-06-08,Expense,Utilities,999,Credit Card,Gas Agency,Mumbai,Credit Card Account,0,Essential
+501056,2023-06-08,Expense,Groceries,729,UPI,BigBasket,Mumbai,Primary Savings,0,Essential
+500147,2023-06-10,Expense,Insurance,1282,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500200,2023-06-11,Expense,Entertainment,633,Cash,BookMyShow,Delhi,Salary Account,0,Lifestyle
+500511,2023-06-13,Expense,Transport,292,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500174,2023-06-13,Expense,Healthcare,1673,UPI,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500678,2023-06-15,Expense,Insurance,2064,Debit Card,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500491,2023-06-16,Expense,Groceries,975,Net Banking,DMart,Mumbai,Primary Savings,0,Essential
+500354,2023-06-16,Expense,Transport,277,UPI,Ola,Mumbai,Primary Savings,0,Essential
+501147,2023-06-17,Expense,Loan EMI,2860,Credit Card,Bank Loan Dept,Bengaluru,Credit Card Account,0,Essential
+500567,2023-06-18,Expense,Shopping,1090,Debit Card,Myntra,Mumbai,Primary Savings,0,Lifestyle
+501212,2023-06-18,Expense,Travel,5297,UPI,MakeMyTrip,Mumbai,Salary Account,0,Lifestyle
+500347,2023-06-18,Expense,Rent,13815,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500152,2023-06-19,Expense,Entertainment,702,Cash,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500194,2023-06-21,Expense,Healthcare,1657,Debit Card,Apollo Pharmacy,Delhi,Salary Account,0,Essential
+500902,2023-06-21,Expense,Education,1087,Credit Card,Udemy,Mumbai,Credit Card Account,0,Essential
+501149,2023-06-22,Expense,Insurance,2101,Net Banking,Health Insurance Co,Delhi,Salary Account,0,Essential
+500399,2023-06-22,Expense,Groceries,1388,Credit Card,DMart,Mumbai,Credit Card Account,0,Essential
+501143,2023-06-22,Expense,Rent,12776,Cash,Landlord Transfer,Hyderabad,Primary Savings,0,Essential
+500945,2023-06-23,Expense,Education,2109,Debit Card,Udemy,Mumbai,Primary Savings,0,Essential
+500171,2023-06-24,Expense,Education,894,Cash,Book Store,Mumbai,Primary Savings,0,Essential
+500343,2023-06-25,Expense,Entertainment,430,UPI,Netflix,Mumbai,Salary Account,0,Lifestyle
+500318,2023-06-25,Expense,Insurance,2116,Cash,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500019,2023-06-28,Income,Bonus,15630,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500230,2023-06-28,Expense,Healthcare,1173,Credit Card,Hospital Visit,Mumbai,Credit Card Account,0,Essential
+500204,2023-06-28,Expense,Travel,5231,Cash,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+501054,2023-06-28,Expense,Education,1339,Debit Card,Coursera,Delhi,Primary Savings,0,Essential
+501004,2023-06-28,Expense,Shopping,1137,Credit Card,Amazon,Mumbai,Credit Card Account,0,Lifestyle
+500406,2023-06-29,Expense,Fitness,969,Cash,Yoga Studio,Hyderabad,Primary Savings,0,Lifestyle
+500735,2023-06-29,Expense,Healthcare,1692,UPI,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500750,2023-06-30,Expense,Loan EMI,2964,UPI,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500020,2023-07-01,Income,Salary,74036,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+501130,2023-07-02,Expense,Education,1937,UPI,Tuition Fees,Mumbai,Primary Savings,0,Essential
+500286,2023-07-02,Expense,Travel,2690,Cash,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500850,2023-07-03,Expense,Travel,2235,Net Banking,Hotel Booking,Mumbai,Salary Account,0,Lifestyle
+500438,2023-07-03,Income,Interest,568,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500021,2023-07-05,Expense,Rent,12362,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500366,2023-07-06,Expense,Subscriptions,400,UPI,YouTube Premium,Mumbai,Salary Account,0,Lifestyle
+500903,2023-07-06,Expense,Entertainment,378,Debit Card,Netflix,Mumbai,Salary Account,0,Lifestyle
+500394,2023-07-06,Expense,Entertainment,311,Cash,Spotify,Mumbai,Salary Account,0,Lifestyle
+500022,2023-07-07,Expense,Loan EMI,3011,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500190,2023-07-07,Expense,Groceries,997,Debit Card,Local Kirana,Mumbai,Primary Savings,0,Essential
+500345,2023-07-08,Income,Freelance,8806,Credit Card,Direct Client,Mumbai,Credit Card Account,0,Income
+500744,2023-07-08,Expense,Loan EMI,4996,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+501167,2023-07-13,Expense,Fitness,1066,Cash,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500555,2023-07-19,Expense,Travel,3384,Cash,Airline Booking,Mumbai,Salary Account,0,Lifestyle
+500709,2023-07-21,Expense,Travel,5162,Cash,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500970,2023-07-21,Expense,Healthcare,884,Debit Card,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500125,2023-07-21,Expense,Education,1826,UPI,Tuition Fees,Mumbai,Primary Savings,0,Essential
+501080,2023-07-21,Income,Interest,829,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500637,2023-07-24,Expense,Insurance,1239,Net Banking,LIC Premium,Mumbai,Primary Savings,0,Essential
+500621,2023-07-24,Expense,Education,711,Net Banking,Tuition Fees,Mumbai,Salary Account,0,Essential
+500858,2023-07-25,Expense,Rent,12463,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500348,2023-07-26,Expense,Healthcare,734,UPI,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500273,2023-07-26,Expense,Entertainment,481,Net Banking,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500707,2023-07-28,Expense,Groceries,1222,Cash,Reliance Fresh,Mumbai,Salary Account,0,Essential
+500644,2023-07-28,Expense,Rent,14050,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500611,2023-07-28,Expense,Fitness,954,Cash,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+501198,2023-07-28,Expense,Groceries,486,UPI,Local Kirana,Mumbai,Primary Savings,0,Essential
+500906,2023-08-01,Expense,Healthcare,1767,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500023,2023-08-01,Income,Salary,81248,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500659,2023-08-01,Expense,Fitness,563,Debit Card,Sports Store,Mumbai,Salary Account,0,Lifestyle
+500146,2023-08-02,Expense,Dining Out,618,Cash,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500640,2023-08-05,Expense,Rent,13323,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500024,2023-08-05,Expense,Rent,12659,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500025,2023-08-07,Expense,Loan EMI,4761,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500470,2023-08-07,Expense,Healthcare,1385,Debit Card,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+501200,2023-08-08,Expense,Transport,304,UPI,Metro Card,Mumbai,Salary Account,0,Essential
+501018,2023-08-09,Expense,Travel,9758,Cash,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500684,2023-08-09,Income,Interest,130,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+501099,2023-08-14,Expense,Travel,1616,UPI,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500513,2023-08-15,Expense,Loan EMI,4480,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500453,2023-08-15,Expense,Transport,370,Debit Card,Uber,Mumbai,Salary Account,0,Essential
+500922,2023-08-15,Expense,Subscriptions,265,Credit Card,Disney+ Hotstar,Mumbai,Credit Card Account,0,Lifestyle
+500821,2023-08-16,Expense,Rent,13048,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500758,2023-08-16,Expense,Travel,5018,UPI,IRCTC,Mumbai,Salary Account,0,Lifestyle
+500633,2023-08-17,Expense,Insurance,1276,Debit Card,Health Insurance Co,Bengaluru,Salary Account,0,Essential
+501193,2023-08-17,Expense,Entertainment,591,Cash,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500739,2023-08-19,Expense,Utilities,1320,Credit Card,Water Dept,Mumbai,Credit Card Account,0,Essential
+500532,2023-08-20,Expense,Education,1499,Cash,Tuition Fees,Mumbai,Salary Account,0,Essential
+500860,2023-08-22,Expense,Subscriptions,207,Cash,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+501168,2023-08-23,Expense,Groceries,1312,Net Banking,DMart,Mumbai,Salary Account,0,Essential
+500851,2023-08-24,Expense,Fitness,722,Cash,Sports Store,Mumbai,Salary Account,0,Lifestyle
+500930,2023-08-26,Expense,Shopping,1976,Net Banking,Amazon,Delhi,Primary Savings,0,Lifestyle
+501194,2023-08-28,Expense,Transport,190,Net Banking,Petrol Pump,Mumbai,Primary Savings,0,Essential
+500220,2023-08-29,Expense,Entertainment,583,Cash,BookMyShow,Delhi,Salary Account,0,Lifestyle
+500026,2023-09-01,Income,Salary,79935,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+500240,2023-09-01,Expense,Entertainment,421,UPI,Netflix,Delhi,Primary Savings,0,Lifestyle
+500328,2023-09-02,Expense,Subscriptions,368,UPI,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500764,2023-09-03,Expense,Subscriptions,425,Credit Card,YouTube Premium,Mumbai,Credit Card Account,0,Lifestyle
+501098,2023-09-04,Income,Freelance,5101,Net Banking,Fiverr,Mumbai,Salary Account,0,Income
+500732,2023-09-05,Income,Freelance,4684,Net Banking,Direct Client,Mumbai,Primary Savings,0,Income
+500027,2023-09-05,Expense,Rent,13985,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500853,2023-09-07,Income,Freelance,7949,Net Banking,Direct Client,Mumbai,Primary Savings,0,Income
+500028,2023-09-07,Expense,Loan EMI,3118,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500256,2023-09-12,Expense,Entertainment,211,Debit Card,BookMyShow,Mumbai,Salary Account,0,Lifestyle
+500426,2023-09-14,Expense,Fitness,1014,UPI,Gym Membership,Pune,Salary Account,0,Lifestyle
+500662,2023-09-14,Expense,Transport,1242,Net Banking,Uber,Mumbai,Salary Account,0,Essential
+501141,2023-09-14,Expense,Insurance,1708,Cash,Health Insurance Co,Bengaluru,Primary Savings,0,Essential
+500958,2023-09-14,Expense,Dining Out,261,Cash,Cafe Coffee Day,Mumbai,Primary Savings,0,Lifestyle
+500941,2023-09-17,Expense,Loan EMI,2835,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500674,2023-09-19,Expense,Utilities,990,Debit Card,Water Dept,Pune,Primary Savings,0,Essential
+500552,2023-09-19,Income,Investment Returns,1756,Cash,Mutual Fund,Mumbai,Salary Account,0,Income
+500464,2023-09-20,Expense,Groceries,544,UPI,BigBasket,Bengaluru,Primary Savings,0,Essential
+500791,2023-09-21,Expense,Groceries,1021,Net Banking,Reliance Fresh,Mumbai,Salary Account,0,Essential
+501031,2023-09-22,Expense,Education,1986,Cash,Tuition Fees,Mumbai,Salary Account,0,Essential
+500185,2023-09-23,Expense,Subscriptions,152,Net Banking,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500029,2023-09-28,Income,Bonus,8062,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+501044,2023-09-28,Expense,Loan EMI,4005,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500249,2023-10-01,Expense,Education,1310,Credit Card,Udemy,Mumbai,Credit Card Account,0,Essential
+500030,2023-10-01,Income,Salary,78897,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+501042,2023-10-02,Expense,Insurance,2357,Net Banking,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500576,2023-10-03,Expense,Shopping,1498,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+500722,2023-10-03,Expense,Entertainment,532,Net Banking,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+500332,2023-10-04,Expense,Loan EMI,2845,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500031,2023-10-05,Expense,Rent,12962,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500032,2023-10-07,Expense,Loan EMI,2805,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500635,2023-10-07,Expense,Healthcare,896,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+501145,2023-10-07,Expense,Utilities,1289,Cash,Gas Agency,Mumbai,Salary Account,0,Essential
+500666,2023-10-08,Expense,Transport,846,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500293,2023-10-09,Expense,Rent,12232,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500854,2023-10-09,Expense,Healthcare,1624,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500120,2023-10-11,Income,Freelance,5058,Net Banking,Upwork,Mumbai,Primary Savings,0,Income
+500898,2023-10-11,Expense,Travel,3613,UPI,MakeMyTrip,Mumbai,Primary Savings,0,Lifestyle
+500234,2023-10-12,Expense,Transport,639,Debit Card,Ola,Mumbai,Salary Account,0,Essential
+500777,2023-10-12,Expense,Groceries,422,UPI,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+500465,2023-10-14,Expense,Loan EMI,3907,UPI,Bank Loan Dept,Bengaluru,Primary Savings,0,Essential
+500944,2023-10-14,Expense,Loan EMI,3737,Net Banking,Bank Loan Dept,Hyderabad,Primary Savings,0,Essential
+500391,2023-10-15,Expense,Transport,653,UPI,Uber,Mumbai,Primary Savings,0,Essential
+500670,2023-10-15,Expense,Utilities,1358,UPI,Gas Agency,Mumbai,Salary Account,0,Essential
+500982,2023-10-15,Expense,Shopping,1850,Credit Card,Local Mall,Mumbai,Credit Card Account,0,Lifestyle
+500377,2023-10-16,Expense,Transport,343,Debit Card,Ola,Mumbai,Primary Savings,0,Essential
+501138,2023-10-17,Expense,Shopping,856,Credit Card,Flipkart,Mumbai,Credit Card Account,0,Lifestyle
+500955,2023-10-17,Income,Investment Returns,1799,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500781,2023-10-19,Expense,Insurance,2325,Cash,LIC Premium,Hyderabad,Salary Account,0,Essential
+501190,2023-10-21,Expense,Dining Out,359,Cash,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500862,2023-10-21,Expense,Rent,13570,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500682,2023-10-23,Expense,Healthcare,1122,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500469,2023-10-24,Income,Investment Returns,946,Cash,Mutual Fund,Mumbai,Salary Account,0,Income
+500285,2023-10-27,Expense,Rent,13372,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+501087,2023-10-28,Expense,Insurance,1615,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500628,2023-10-29,Income,Interest,326,Cash,Savings Bank,Mumbai,Salary Account,0,Income
+500760,2023-10-29,Income,Interest,415,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500541,2023-10-31,Expense,Insurance,1551,Cash,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500624,2023-10-31,Expense,Insurance,1496,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+500033,2023-11-01,Income,Salary,80783,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+501131,2023-11-02,Expense,Travel,2588,Net Banking,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500579,2023-11-02,Expense,Subscriptions,162,UPI,Amazon Prime,Hyderabad,Salary Account,0,Lifestyle
+500322,2023-11-04,Expense,Transport,469,UPI,Metro Card,Mumbai,Salary Account,0,Essential
+500590,2023-11-04,Expense,Groceries,980,Debit Card,DMart,Mumbai,Primary Savings,0,Essential
+501186,2023-11-05,Expense,Healthcare,909,Debit Card,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500912,2023-11-05,Income,Freelance,5351,Debit Card,Fiverr,Mumbai,Primary Savings,0,Income
+500034,2023-11-05,Expense,Rent,14759,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500035,2023-11-07,Expense,Loan EMI,5788,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500961,2023-11-07,Expense,Fitness,587,UPI,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+501207,2023-11-09,Income,Interest,290,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+500255,2023-11-09,Expense,Loan EMI,5458,UPI,Bank Loan Dept,Pune,Salary Account,0,Essential
+500490,2023-11-11,Expense,Dining Out,1068,Credit Card,Cafe Coffee Day,Mumbai,Credit Card Account,0,Lifestyle
+501165,2023-11-11,Income,Freelance,5027,UPI,Upwork,Mumbai,Salary Account,0,Income
+500309,2023-11-11,Expense,Shopping,811,Credit Card,Local Mall,Mumbai,Credit Card Account,0,Lifestyle
+501113,2023-11-11,Expense,Healthcare,1079,Credit Card,Apollo Pharmacy,Mumbai,Credit Card Account,0,Essential
+500631,2023-11-12,Expense,Travel,3609,UPI,Airline Booking,Bengaluru,Primary Savings,0,Lifestyle
+501114,2023-11-13,Expense,Loan EMI,2687,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500799,2023-11-13,Expense,Fitness,835,Cash,Yoga Studio,Pune,Primary Savings,0,Lifestyle
+500459,2023-11-14,Expense,Healthcare,1634,UPI,Diagnostic Lab,Pune,Primary Savings,0,Essential
+500896,2023-11-18,Expense,Transport,432,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500424,2023-11-18,Income,Interest,507,Net Banking,Savings Bank,Mumbai,Salary Account,0,Income
+500232,2023-11-18,Expense,Travel,4122,Credit Card,IRCTC,Mumbai,Credit Card Account,0,Lifestyle
+500157,2023-11-21,Expense,Groceries,907,Debit Card,Reliance Fresh,Mumbai,Salary Account,0,Essential
+500344,2023-11-22,Expense,Rent,14399,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500753,2023-11-23,Income,Interest,151,UPI,Savings Bank,Bengaluru,Primary Savings,0,Income
+500646,2023-11-24,Expense,Travel,2870,Net Banking,IRCTC,Mumbai,Primary Savings,0,Lifestyle
+500879,2023-11-26,Expense,Dining Out,1000,UPI,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500788,2023-11-26,Expense,Entertainment,823,Debit Card,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+500036,2023-12-01,Income,Salary,78780,Cash,Employer Inc.,Mumbai,Salary Account,0,Income
+500431,2023-12-01,Expense,Utilities,757,Cash,Gas Agency,Mumbai,Primary Savings,0,Essential
+500369,2023-12-04,Expense,Travel,4554,UPI,Hotel Booking,Mumbai,Salary Account,0,Lifestyle
+500037,2023-12-05,Expense,Rent,12501,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500304,2023-12-06,Expense,Fitness,493,UPI,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500486,2023-12-07,Expense,Subscriptions,644,Credit Card,Amazon Prime,Mumbai,Credit Card Account,0,Lifestyle
+500038,2023-12-07,Expense,Loan EMI,4794,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500993,2023-12-08,Expense,Insurance,2106,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+500170,2023-12-08,Expense,Shopping,550,Debit Card,Flipkart,Mumbai,Primary Savings,0,Lifestyle
+501117,2023-12-08,Income,Investment Returns,1511,UPI,Stock Dividend,Mumbai,Salary Account,0,Income
+500430,2023-12-08,Income,Freelance,9755,Cash,Upwork,Mumbai,Salary Account,0,Income
+500396,2023-12-09,Expense,Subscriptions,442,Net Banking,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500741,2023-12-12,Expense,Utilities,778,UPI,Gas Agency,Mumbai,Salary Account,0,Essential
+500211,2023-12-12,Expense,Dining Out,674,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500824,2023-12-12,Expense,Insurance,1911,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+500457,2023-12-13,Expense,Shopping,1933,Net Banking,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500510,2023-12-14,Expense,Rent,13404,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500835,2023-12-16,Expense,Rent,13575,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+501188,2023-12-16,Expense,Healthcare,514,Debit Card,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500943,2023-12-17,Income,Freelance,5327,Credit Card,Upwork,Mumbai,Credit Card Account,0,Income
+500210,2023-12-17,Expense,Education,845,Net Banking,Udemy,Mumbai,Primary Savings,0,Essential
+500352,2023-12-17,Expense,Utilities,901,Debit Card,Gas Agency,Mumbai,Salary Account,0,Essential
+501215,2023-12-18,Expense,Travel,2228,Credit Card,MakeMyTrip,Mumbai,Credit Card Account,0,Lifestyle
+500773,2023-12-21,Expense,Fitness,916,Net Banking,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500768,2023-12-21,Income,Investment Returns,4298,Net Banking,Stock Dividend,Mumbai,Primary Savings,0,Income
+501012,2023-12-22,Expense,Rent,14189,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500312,2023-12-25,Expense,Subscriptions,186,Cash,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500615,2023-12-27,Expense,Subscriptions,320,Cash,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+500951,2023-12-27,Income,Interest,427,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500393,2023-12-27,Income,Freelance,5844,Credit Card,Upwork,Mumbai,Credit Card Account,0,Income
+500901,2023-12-28,Expense,Entertainment,631,Net Banking,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+500039,2023-12-28,Income,Bonus,12804,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+501071,2023-12-28,Expense,Utilities,1106,UPI,Gas Agency,Mumbai,Salary Account,0,Essential
+500427,2023-12-30,Expense,Transport,561,Debit Card,Petrol Pump,Mumbai,Salary Account,0,Essential
+501136,2023-12-31,Expense,Entertainment,876,Cash,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+501096,2024-01-01,Expense,Entertainment,449,Cash,BookMyShow,Bengaluru,Salary Account,0,Lifestyle
+500040,2024-01-01,Income,Salary,77157,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500411,2024-01-03,Expense,Insurance,2146,Debit Card,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500966,2024-01-04,Expense,Education,1878,Credit Card,Udemy,Mumbai,Credit Card Account,0,Essential
+500373,2024-01-04,Expense,Shopping,1931,UPI,Amazon,Pune,Salary Account,0,Lifestyle
+500412,2024-01-05,Expense,Dining Out,529,Debit Card,Zomato,Mumbai,Primary Savings,0,Lifestyle
+500041,2024-01-05,Expense,Rent,13397,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500551,2024-01-06,Expense,Groceries,1073,Debit Card,Local Kirana,Bengaluru,Salary Account,0,Essential
+500287,2024-01-07,Income,Freelance,8393,Credit Card,Upwork,Mumbai,Credit Card Account,0,Income
+500042,2024-01-07,Expense,Loan EMI,3098,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500181,2024-01-07,Expense,Entertainment,526,UPI,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+500151,2024-01-09,Expense,Shopping,723,Net Banking,Myntra,Mumbai,Salary Account,0,Lifestyle
+500440,2024-01-11,Income,Investment Returns,1403,Net Banking,Stock Dividend,Mumbai,Salary Account,0,Income
+500909,2024-01-11,Income,Investment Returns,1997,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+501189,2024-01-12,Expense,Education,1046,Net Banking,Coursera,Mumbai,Salary Account,0,Essential
+500759,2024-01-13,Expense,Entertainment,459,Credit Card,BookMyShow,Mumbai,Credit Card Account,0,Lifestyle
+501029,2024-01-13,Expense,Entertainment,344,Cash,BookMyShow,Mumbai,Salary Account,0,Lifestyle
+500271,2024-01-14,Expense,Entertainment,765,Debit Card,BookMyShow,Mumbai,Salary Account,0,Lifestyle
+500845,2024-01-14,Expense,Shopping,1105,UPI,Myntra,Mumbai,Salary Account,0,Lifestyle
+501009,2024-01-14,Expense,Dining Out,1066,Debit Card,Zomato,Mumbai,Salary Account,0,Lifestyle
+500325,2024-01-15,Income,Investment Returns,3035,Credit Card,Mutual Fund,Mumbai,Credit Card Account,0,Income
+500203,2024-01-15,Expense,Shopping,1522,Cash,Flipkart,Mumbai,Salary Account,0,Lifestyle
+500881,2024-01-16,Expense,Subscriptions,541,Cash,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500664,2024-01-20,Expense,Dining Out,692,Debit Card,Cafe Coffee Day,Mumbai,Salary Account,0,Lifestyle
+500701,2024-01-20,Income,Interest,1089,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500474,2024-01-21,Income,Investment Returns,1875,Net Banking,Stock Dividend,Mumbai,Primary Savings,0,Income
+500634,2024-01-21,Income,Freelance,7637,UPI,Direct Client,Mumbai,Primary Savings,0,Income
+500135,2024-01-22,Expense,Insurance,1720,Cash,LIC Premium,Bengaluru,Primary Savings,0,Essential
+500184,2024-01-24,Expense,Insurance,1633,Net Banking,Health Insurance Co,Mumbai,Salary Account,0,Essential
+501144,2024-01-25,Expense,Education,741,Debit Card,Udemy,Mumbai,Primary Savings,0,Essential
+501102,2024-01-26,Expense,Shopping,1813,UPI,Myntra,Mumbai,Salary Account,0,Lifestyle
+500779,2024-01-26,Expense,Fitness,800,UPI,Sports Store,Mumbai,Salary Account,0,Lifestyle
+500223,2024-01-27,Expense,Dining Out,1037,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500893,2024-01-31,Expense,Fitness,303,Credit Card,Gym Membership,Mumbai,Credit Card Account,0,Lifestyle
+501191,2024-01-31,Income,Interest,700,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+500043,2024-02-01,Income,Salary,76778,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500653,2024-02-01,Expense,Loan EMI,15237,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500668,2024-02-02,Expense,Entertainment,252,UPI,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500949,2024-02-02,Income,Freelance,9992,UPI,Fiverr,Mumbai,Primary Savings,0,Income
+500720,2024-02-03,Income,Investment Returns,1911,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500261,2024-02-03,Expense,Healthcare,1539,Debit Card,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+501177,2024-02-04,Expense,Education,1264,Debit Card,Udemy,Bengaluru,Primary Savings,0,Essential
+501006,2024-02-04,Income,Investment Returns,2817,Net Banking,Mutual Fund,Mumbai,Primary Savings,0,Income
+500044,2024-02-05,Expense,Rent,13495,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+501159,2024-02-06,Income,Freelance,9292,Debit Card,Fiverr,Mumbai,Primary Savings,0,Income
+500407,2024-02-06,Expense,Rent,12190,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500045,2024-02-07,Expense,Loan EMI,4348,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500450,2024-02-08,Expense,Groceries,1324,Debit Card,DMart,Mumbai,Salary Account,0,Essential
+500207,2024-02-08,Expense,Dining Out,938,Net Banking,Cafe Coffee Day,Mumbai,Salary Account,0,Lifestyle
+501121,2024-02-08,Expense,Rent,13729,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500745,2024-02-09,Expense,Rent,14492,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500245,2024-02-10,Expense,Loan EMI,3418,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500192,2024-02-11,Income,Investment Returns,1535,Debit Card,Stock Dividend,Bengaluru,Salary Account,0,Income
+500749,2024-02-13,Expense,Travel,2335,Credit Card,IRCTC,Mumbai,Credit Card Account,0,Lifestyle
+500888,2024-02-17,Expense,Healthcare,1133,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500963,2024-02-18,Expense,Transport,882,Cash,Metro Card,Mumbai,Primary Savings,0,Essential
+500133,2024-02-18,Expense,Utilities,885,Cash,Electricity Board,Mumbai,Salary Account,0,Essential
+501011,2024-02-19,Expense,Healthcare,1199,Net Banking,Hospital Visit,Mumbai,Salary Account,0,Essential
+501074,2024-02-19,Expense,Healthcare,1692,Cash,Hospital Visit,Mumbai,Salary Account,0,Essential
+500578,2024-02-19,Income,Freelance,2814,UPI,Direct Client,Mumbai,Salary Account,0,Income
+500205,2024-02-21,Expense,Groceries,1345,Net Banking,DMart,Mumbai,Salary Account,0,Essential
+500496,2024-02-21,Expense,Entertainment,222,Net Banking,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500619,2024-02-22,Expense,Rent,14630,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500374,2024-02-22,Expense,Insurance,1590,Cash,LIC Premium,Hyderabad,Salary Account,0,Essential
+500213,2024-02-23,Expense,Rent,12464,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+501109,2024-02-24,Expense,Insurance,1847,Cash,LIC Premium,Pune,Primary Savings,0,Essential
+500500,2024-02-25,Expense,Rent,13277,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500488,2024-02-26,Expense,Healthcare,932,Debit Card,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+501060,2024-02-28,Expense,Utilities,1789,Debit Card,Water Dept,Mumbai,Primary Savings,0,Essential
+500046,2024-03-01,Income,Salary,76215,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+501021,2024-03-03,Income,Investment Returns,2362,Debit Card,Mutual Fund,Mumbai,Salary Account,0,Income
+500529,2024-03-03,Expense,Healthcare,483,Credit Card,Apollo Pharmacy,Mumbai,Credit Card Account,0,Essential
+500505,2024-03-04,Expense,Subscriptions,404,Debit Card,YouTube Premium,Mumbai,Salary Account,0,Lifestyle
+501150,2024-03-04,Expense,Healthcare,832,Debit Card,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500936,2024-03-05,Expense,Transport,893,Cash,Ola,Mumbai,Salary Account,0,Essential
+500770,2024-03-05,Expense,Education,2346,Credit Card,Book Store,Mumbai,Credit Card Account,0,Essential
+500047,2024-03-05,Expense,Rent,13984,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500446,2024-03-05,Expense,Groceries,625,Credit Card,BigBasket,Mumbai,Credit Card Account,0,Essential
+501035,2024-03-05,Expense,Fitness,463,Debit Card,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500679,2024-03-06,Expense,Healthcare,1391,Net Banking,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500742,2024-03-07,Expense,Transport,711,Credit Card,Metro Card,Mumbai,Credit Card Account,0,Essential
+500048,2024-03-07,Expense,Loan EMI,4083,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501185,2024-03-08,Expense,Groceries,4369,Debit Card,DMart,Mumbai,Primary Savings,0,Essential
+500155,2024-03-10,Expense,Shopping,755,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+501032,2024-03-11,Expense,Dining Out,247,Cash,Zomato,Mumbai,Primary Savings,0,Lifestyle
+501219,2024-03-12,Expense,Groceries,1340,UPI,BigBasket,Mumbai,Salary Account,0,Essential
+500131,2024-03-18,Expense,Fitness,934,UPI,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500417,2024-03-20,Income,Interest,450,Cash,Savings Bank,Mumbai,Salary Account,0,Income
+500445,2024-03-20,Expense,Loan EMI,3711,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500740,2024-03-20,Expense,Utilities,799,Net Banking,Internet Provider,Mumbai,Salary Account,0,Essential
+500149,2024-03-21,Expense,Education,957,Debit Card,Book Store,Mumbai,Salary Account,0,Essential
+501023,2024-03-22,Income,Interest,674,Cash,Savings Bank,Mumbai,Primary Savings,0,Income
+501026,2024-03-22,Expense,Loan EMI,3155,UPI,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500471,2024-03-23,Expense,Travel,2743,Cash,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500990,2024-03-24,Expense,Loan EMI,14022,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500122,2024-03-25,Expense,Loan EMI,4047,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500797,2024-03-25,Income,Freelance,10235,UPI,Direct Client,Mumbai,Primary Savings,0,Income
+500049,2024-03-28,Income,Bonus,9353,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500568,2024-03-29,Income,Investment Returns,3055,Debit Card,Stock Dividend,Mumbai,Salary Account,0,Income
+500050,2024-04-01,Income,Salary,68439,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500790,2024-04-03,Expense,Healthcare,432,UPI,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+500705,2024-04-04,Expense,Healthcare,1419,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500051,2024-04-05,Expense,Rent,14941,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500493,2024-04-06,Expense,Fitness,621,Net Banking,Sports Store,Pune,Salary Account,0,Lifestyle
+500911,2024-04-07,Expense,Fitness,389,UPI,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500331,2024-04-07,Income,Investment Returns,1444,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+500052,2024-04-07,Expense,Loan EMI,5432,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500489,2024-04-08,Income,Freelance,7813,Debit Card,Fiverr,Pune,Primary Savings,0,Income
+501055,2024-04-08,Expense,Insurance,1232,Net Banking,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500771,2024-04-08,Expense,Subscriptions,1007,UPI,Disney+ Hotstar,Mumbai,Salary Account,0,Lifestyle
+500310,2024-04-09,Expense,Entertainment,826,UPI,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500969,2024-04-09,Expense,Entertainment,857,Debit Card,Spotify,Pune,Salary Account,0,Lifestyle
+500349,2024-04-10,Income,Freelance,10016,Cash,Direct Client,Mumbai,Primary Savings,0,Income
+501051,2024-04-10,Expense,Transport,739,UPI,Uber,Mumbai,Primary Savings,0,Essential
+500158,2024-04-10,Expense,Fitness,794,UPI,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+501134,2024-04-11,Expense,Subscriptions,506,Credit Card,Amazon Prime,Mumbai,Credit Card Account,0,Lifestyle
+501153,2024-04-14,Expense,Fitness,466,Cash,Sports Store,Mumbai,Salary Account,0,Lifestyle
+500202,2024-04-15,Expense,Transport,837,Credit Card,Ola,Bengaluru,Credit Card Account,0,Essential
+500259,2024-04-16,Expense,Entertainment,334,UPI,Netflix,Mumbai,Primary Savings,0,Lifestyle
+500180,2024-04-17,Expense,Subscriptions,331,Debit Card,YouTube Premium,Mumbai,Salary Account,0,Lifestyle
+501170,2024-04-18,Income,Investment Returns,3319,Cash,Mutual Fund,Mumbai,Primary Savings,0,Income
+500208,2024-04-18,Income,Investment Returns,4435,Cash,Stock Dividend,Mumbai,Salary Account,0,Income
+500782,2024-04-18,Expense,Entertainment,480,Net Banking,Netflix,Mumbai,Salary Account,0,Lifestyle
+500825,2024-04-18,Income,Freelance,5743,Debit Card,Fiverr,Mumbai,Primary Savings,0,Income
+500218,2024-04-21,Expense,Shopping,1001,UPI,Flipkart,Delhi,Salary Account,0,Lifestyle
+500796,2024-04-25,Expense,Subscriptions,1282,Debit Card,Disney+ Hotstar,Hyderabad,Primary Savings,0,Lifestyle
+500575,2024-04-27,Income,Interest,699,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+500752,2024-04-28,Expense,Insurance,2364,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+501041,2024-04-29,Expense,Fitness,547,UPI,Gym Membership,Delhi,Salary Account,0,Lifestyle
+500053,2024-05-01,Income,Salary,76126,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500800,2024-05-03,Expense,Groceries,1240,Debit Card,DMart,Mumbai,Salary Account,0,Essential
+500315,2024-05-03,Expense,Education,1706,Net Banking,Udemy,Mumbai,Salary Account,0,Essential
+500136,2024-05-03,Expense,Shopping,621,Net Banking,Local Mall,Mumbai,Salary Account,0,Lifestyle
+500895,2024-05-04,Expense,Fitness,627,Net Banking,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500525,2024-05-04,Expense,Groceries,3072,UPI,DMart,Mumbai,Primary Savings,0,Essential
+501064,2024-05-04,Expense,Shopping,1759,Credit Card,Amazon,Delhi,Credit Card Account,0,Lifestyle
+500054,2024-05-05,Expense,Rent,12287,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500566,2024-05-06,Expense,Loan EMI,4650,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500055,2024-05-07,Expense,Loan EMI,4754,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500681,2024-05-07,Expense,Transport,868,UPI,Ola,Mumbai,Primary Savings,0,Essential
+500508,2024-05-08,Expense,Healthcare,1037,Credit Card,Apollo Pharmacy,Mumbai,Credit Card Account,0,Essential
+501068,2024-05-08,Expense,Subscriptions,365,UPI,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500336,2024-05-09,Expense,Fitness,592,Debit Card,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500436,2024-05-10,Expense,Rent,13323,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500290,2024-05-10,Expense,Utilities,810,Cash,Internet Provider,Mumbai,Salary Account,0,Essential
+501183,2024-05-11,Expense,Shopping,970,Net Banking,Flipkart,Pune,Primary Savings,0,Lifestyle
+500950,2024-05-12,Income,Investment Returns,1738,Credit Card,Mutual Fund,Mumbai,Credit Card Account,0,Income
+500243,2024-05-14,Expense,Education,825,UPI,Udemy,Mumbai,Primary Savings,0,Essential
+500891,2024-05-15,Expense,Insurance,1630,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+501112,2024-05-17,Income,Freelance,2499,Debit Card,Direct Client,Mumbai,Salary Account,0,Income
+500654,2024-05-17,Expense,Healthcare,796,UPI,Apollo Pharmacy,Delhi,Primary Savings,0,Essential
+500129,2024-05-20,Expense,Shopping,1782,Net Banking,Flipkart,Mumbai,Salary Account,0,Lifestyle
+501083,2024-05-21,Expense,Transport,822,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500596,2024-05-21,Expense,Transport,417,Credit Card,Petrol Pump,Pune,Credit Card Account,0,Essential
+501076,2024-05-22,Expense,Shopping,1242,Debit Card,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500900,2024-05-22,Expense,Education,1105,Cash,Book Store,Mumbai,Primary Savings,0,Essential
+501050,2024-05-23,Expense,Insurance,2192,Cash,LIC Premium,Mumbai,Salary Account,0,Essential
+500614,2024-05-24,Expense,Travel,2969,Credit Card,Hotel Booking,Mumbai,Credit Card Account,0,Lifestyle
+500609,2024-05-24,Expense,Loan EMI,4588,Debit Card,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500714,2024-05-25,Income,Investment Returns,3411,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500358,2024-05-25,Income,Investment Returns,1060,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+501169,2024-05-26,Expense,Insurance,1847,Cash,LIC Premium,Mumbai,Primary Savings,0,Essential
+500872,2024-05-26,Income,Freelance,9239,Credit Card,Upwork,Mumbai,Credit Card Account,0,Income
+500689,2024-05-27,Expense,Rent,12614,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500856,2024-05-27,Expense,Transport,513,Debit Card,Metro Card,Mumbai,Primary Savings,0,Essential
+500313,2024-05-28,Expense,Healthcare,1381,UPI,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+500410,2024-05-29,Expense,Rent,12071,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500767,2024-05-30,Expense,Shopping,1130,Net Banking,Myntra,Mumbai,Salary Account,0,Lifestyle
+500783,2024-05-30,Income,Investment Returns,4140,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+500056,2024-06-01,Income,Salary,77820,Cash,Employer Inc.,Mumbai,Salary Account,0,Income
+500582,2024-06-02,Expense,Subscriptions,283,Debit Card,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+501089,2024-06-04,Expense,Transport,718,Cash,Metro Card,Pune,Primary Savings,0,Essential
+500802,2024-06-04,Income,Interest,323,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500657,2024-06-04,Income,Interest,924,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500647,2024-06-04,Expense,Rent,13127,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500057,2024-06-05,Expense,Rent,14340,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500058,2024-06-07,Expense,Loan EMI,4994,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500289,2024-06-08,Expense,Shopping,1994,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+501069,2024-06-11,Expense,Dining Out,485,Debit Card,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500878,2024-06-12,Expense,Dining Out,503,UPI,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500814,2024-06-13,Expense,Shopping,385,UPI,Amazon,Mumbai,Salary Account,0,Lifestyle
+501067,2024-06-13,Expense,Healthcare,993,Cash,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500864,2024-06-16,Expense,Entertainment,533,UPI,Netflix,Mumbai,Salary Account,0,Lifestyle
+500812,2024-06-17,Expense,Loan EMI,4965,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500916,2024-06-18,Expense,Utilities,1584,Debit Card,Electricity Board,Mumbai,Primary Savings,0,Essential
+501017,2024-06-19,Income,Investment Returns,4402,Net Banking,Stock Dividend,Mumbai,Salary Account,0,Income
+500241,2024-06-20,Expense,Travel,2262,Net Banking,Airline Booking,Mumbai,Salary Account,0,Lifestyle
+500587,2024-06-21,Expense,Healthcare,1363,Debit Card,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500164,2024-06-21,Expense,Rent,14465,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+501046,2024-06-23,Income,Investment Returns,4454,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500876,2024-06-23,Expense,Entertainment,870,Cash,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+500874,2024-06-24,Expense,Travel,3096,Debit Card,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500229,2024-06-24,Expense,Education,1422,UPI,Udemy,Mumbai,Salary Account,0,Essential
+500540,2024-06-25,Expense,Dining Out,266,UPI,Cafe Coffee Day,Mumbai,Salary Account,0,Lifestyle
+500730,2024-06-25,Expense,Fitness,811,UPI,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500897,2024-06-26,Income,Freelance,4200,UPI,Direct Client,Mumbai,Salary Account,0,Income
+501146,2024-06-27,Income,Freelance,4070,Debit Card,Upwork,Mumbai,Salary Account,0,Income
+501047,2024-06-27,Expense,Insurance,1280,Cash,Health Insurance Co,Mumbai,Salary Account,0,Essential
+500581,2024-06-27,Income,Investment Returns,1492,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500189,2024-06-27,Expense,Entertainment,817,Debit Card,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500198,2024-06-27,Expense,Fitness,530,Debit Card,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500059,2024-06-28,Income,Bonus,10220,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500060,2024-07-01,Income,Salary,77117,Cash,Employer Inc.,Mumbai,Salary Account,0,Income
+500295,2024-07-01,Income,Interest,999,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500519,2024-07-03,Expense,Groceries,1247,Net Banking,BigBasket,Pune,Salary Account,0,Essential
+501105,2024-07-03,Expense,Loan EMI,5003,Debit Card,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+501140,2024-07-04,Expense,Subscriptions,252,UPI,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500263,2024-07-04,Expense,Subscriptions,200,Cash,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500061,2024-07-05,Expense,Rent,12740,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500225,2024-07-05,Expense,Groceries,800,Net Banking,Reliance Fresh,Mumbai,Salary Account,0,Essential
+500499,2024-07-05,Expense,Transport,445,Debit Card,Metro Card,Mumbai,Primary Savings,0,Essential
+500177,2024-07-06,Expense,Transport,200,Cash,Metro Card,Mumbai,Primary Savings,0,Essential
+500062,2024-07-07,Expense,Loan EMI,5242,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500361,2024-07-07,Expense,Transport,564,Cash,Metro Card,Mumbai,Primary Savings,0,Essential
+500300,2024-07-08,Expense,Rent,12333,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500807,2024-07-08,Expense,Rent,14654,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+501171,2024-07-08,Expense,Groceries,1304,UPI,DMart,Mumbai,Primary Savings,0,Essential
+500351,2024-07-09,Expense,Insurance,2006,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+501152,2024-07-11,Expense,Shopping,1350,UPI,Flipkart,Mumbai,Primary Savings,0,Lifestyle
+500183,2024-07-12,Expense,Education,1444,Debit Card,Udemy,Mumbai,Salary Account,0,Essential
+500335,2024-07-12,Expense,Dining Out,409,Cash,Zomato,Mumbai,Primary Savings,0,Lifestyle
+500281,2024-07-13,Expense,Rent,12923,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500485,2024-07-16,Income,Freelance,2640,Debit Card,Direct Client,Mumbai,Primary Savings,0,Income
+500808,2024-07-16,Expense,Entertainment,537,Debit Card,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+500920,2024-07-17,Expense,Dining Out,277,Cash,Cafe Coffee Day,Pune,Salary Account,0,Lifestyle
+500267,2024-07-17,Expense,Utilities,1006,Debit Card,Gas Agency,Mumbai,Salary Account,0,Essential
+501038,2024-07-18,Expense,Education,897,Debit Card,Tuition Fees,Mumbai,Primary Savings,0,Essential
+500542,2024-07-20,Expense,Dining Out,914,UPI,Cafe Coffee Day,Mumbai,Primary Savings,0,Lifestyle
+500892,2024-07-21,Expense,Rent,14621,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500397,2024-07-22,Expense,Dining Out,476,Debit Card,Zomato,Mumbai,Primary Savings,0,Lifestyle
+501156,2024-07-22,Income,Freelance,10933,UPI,Upwork,Mumbai,Salary Account,0,Income
+501208,2024-07-22,Income,Interest,520,Net Banking,Savings Bank,Mumbai,Primary Savings,0,Income
+500449,2024-07-23,Expense,Healthcare,2945,Debit Card,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500188,2024-07-25,Expense,Loan EMI,5743,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500721,2024-07-26,Expense,Dining Out,889,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500201,2024-07-26,Expense,Entertainment,474,Cash,Gaming Store,Mumbai,Salary Account,0,Lifestyle
+500645,2024-07-27,Expense,Fitness,612,UPI,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500785,2024-07-27,Income,Interest,295,UPI,Savings Bank,Hyderabad,Primary Savings,0,Income
+500461,2024-08-01,Expense,Travel,1510,Debit Card,IRCTC,Mumbai,Primary Savings,0,Lifestyle
+500063,2024-08-01,Income,Salary,70786,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+500608,2024-08-02,Income,Freelance,10921,Debit Card,Fiverr,Mumbai,Primary Savings,0,Income
+500870,2024-08-03,Expense,Groceries,1054,Cash,Reliance Fresh,Pune,Salary Account,0,Essential
+500408,2024-08-03,Expense,Loan EMI,5916,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+501077,2024-08-04,Expense,Entertainment,459,Cash,Netflix,Mumbai,Primary Savings,0,Lifestyle
+500064,2024-08-05,Expense,Rent,13419,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500219,2024-08-05,Expense,Healthcare,253,UPI,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500553,2024-08-05,Expense,Shopping,476,Cash,Amazon,Mumbai,Salary Account,0,Lifestyle
+500292,2024-08-06,Expense,Subscriptions,220,Net Banking,Amazon Prime,Pune,Primary Savings,0,Lifestyle
+500843,2024-08-06,Expense,Dining Out,1072,Cash,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500620,2024-08-07,Expense,Rent,12321,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500065,2024-08-07,Expense,Loan EMI,5620,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500914,2024-08-08,Expense,Transport,406,Net Banking,Uber,Mumbai,Primary Savings,0,Essential
+500964,2024-08-08,Expense,Subscriptions,373,UPI,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500573,2024-08-08,Expense,Travel,2833,Debit Card,Hotel Booking,Mumbai,Salary Account,0,Lifestyle
+500591,2024-08-08,Expense,Education,2021,Debit Card,Book Store,Mumbai,Salary Account,0,Essential
+500324,2024-08-11,Expense,Utilities,1837,Debit Card,Water Dept,Mumbai,Salary Account,0,Essential
+500612,2024-08-11,Expense,Groceries,482,Net Banking,DMart,Mumbai,Salary Account,0,Essential
+500849,2024-08-12,Income,Interest,759,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+500330,2024-08-13,Expense,Groceries,346,Net Banking,DMart,Mumbai,Salary Account,0,Essential
+500747,2024-08-14,Expense,Fitness,917,Cash,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500311,2024-08-16,Expense,Utilities,1611,Cash,Electricity Board,Mumbai,Salary Account,0,Essential
+501161,2024-08-17,Expense,Education,2500,UPI,Tuition Fees,Mumbai,Salary Account,0,Essential
+500671,2024-08-19,Expense,Rent,12640,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500538,2024-08-19,Expense,Entertainment,234,UPI,Spotify,Pune,Salary Account,0,Lifestyle
+500636,2024-08-20,Expense,Transport,156,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500952,2024-08-23,Income,Freelance,6272,UPI,Fiverr,Mumbai,Primary Savings,0,Income
+501061,2024-08-23,Expense,Subscriptions,345,Net Banking,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500492,2024-08-24,Expense,Transport,201,Debit Card,Petrol Pump,Mumbai,Primary Savings,0,Essential
+500405,2024-08-25,Expense,Groceries,723,Debit Card,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+501007,2024-08-25,Expense,Dining Out,666,Credit Card,Cafe Coffee Day,Mumbai,Credit Card Account,0,Lifestyle
+500379,2024-08-26,Expense,Subscriptions,408,Credit Card,Disney+ Hotstar,Mumbai,Credit Card Account,0,Lifestyle
+500939,2024-08-27,Expense,Travel,4175,UPI,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+500719,2024-08-27,Income,Investment Returns,2963,Cash,Mutual Fund,Mumbai,Primary Savings,0,Income
+500618,2024-08-28,Expense,Loan EMI,4914,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500162,2024-08-28,Expense,Utilities,1719,Debit Card,Internet Provider,Mumbai,Primary Savings,0,Essential
+500983,2024-08-30,Expense,Travel,4636,Debit Card,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+501024,2024-08-30,Expense,Education,1788,Net Banking,Udemy,Mumbai,Salary Account,0,Essential
+500867,2024-09-01,Expense,Subscriptions,401,Debit Card,Disney+ Hotstar,Delhi,Primary Savings,0,Lifestyle
+500066,2024-09-01,Income,Salary,77785,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+501124,2024-09-02,Expense,Travel,4486,Debit Card,MakeMyTrip,Pune,Salary Account,0,Lifestyle
+501210,2024-09-02,Expense,Education,1118,Cash,Coursera,Mumbai,Salary Account,0,Essential
+501142,2024-09-03,Income,Interest,1038,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500677,2024-09-03,Income,Interest,976,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+500863,2024-09-03,Income,Investment Returns,761,UPI,Stock Dividend,Pune,Salary Account,0,Income
+500067,2024-09-05,Expense,Rent,12423,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500751,2024-09-07,Expense,Shopping,902,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+500068,2024-09-07,Expense,Loan EMI,3190,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501101,2024-09-08,Expense,Healthcare,1718,Cash,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500625,2024-09-09,Expense,Insurance,1980,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500887,2024-09-10,Expense,Loan EMI,4759,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500840,2024-09-12,Expense,Healthcare,886,UPI,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500988,2024-09-13,Expense,Travel,2746,Net Banking,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500826,2024-09-15,Expense,Healthcare,1323,Debit Card,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500387,2024-09-16,Expense,Shopping,1272,Net Banking,Local Mall,Mumbai,Salary Account,0,Lifestyle
+500815,2024-09-19,Income,Interest,228,Net Banking,Savings Bank,Mumbai,Salary Account,0,Income
+500554,2024-09-20,Income,Investment Returns,616,Credit Card,Mutual Fund,Mumbai,Credit Card Account,0,Income
+500503,2024-09-20,Expense,Utilities,1429,Net Banking,Gas Agency,Mumbai,Salary Account,0,Essential
+500994,2024-09-22,Expense,Shopping,1087,Cash,Myntra,Mumbai,Primary Savings,0,Lifestyle
+500804,2024-09-22,Expense,Shopping,828,Debit Card,Myntra,Mumbai,Primary Savings,0,Lifestyle
+501058,2024-09-22,Expense,Fitness,927,UPI,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+501005,2024-09-23,Expense,Dining Out,927,Cash,Local Restaurant,Pune,Salary Account,0,Lifestyle
+500857,2024-09-23,Income,Investment Returns,3301,Net Banking,Stock Dividend,Mumbai,Primary Savings,0,Income
+500140,2024-09-24,Expense,Groceries,1057,Cash,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+500141,2024-09-24,Expense,Insurance,1700,Credit Card,Health Insurance Co,Mumbai,Credit Card Account,0,Essential
+500680,2024-09-25,Expense,Groceries,583,UPI,BigBasket,Mumbai,Salary Account,0,Essential
+500069,2024-09-28,Income,Bonus,6075,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+501059,2024-09-29,Expense,Insurance,2045,Net Banking,LIC Premium,Mumbai,Salary Account,0,Essential
+500321,2024-09-30,Expense,Travel,3612,Cash,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500965,2024-10-01,Expense,Rent,12198,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500743,2024-10-01,Expense,Dining Out,629,UPI,Zomato,Mumbai,Salary Account,0,Lifestyle
+501033,2024-10-01,Expense,Travel,2173,UPI,MakeMyTrip,Mumbai,Salary Account,0,Lifestyle
+500070,2024-10-01,Income,Salary,81331,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500504,2024-10-01,Expense,Entertainment,795,Cash,Netflix,Mumbai,Salary Account,0,Lifestyle
+500837,2024-10-03,Expense,Groceries,1044,Debit Card,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+500124,2024-10-04,Expense,Utilities,1333,Cash,Gas Agency,Mumbai,Salary Account,0,Essential
+500460,2024-10-04,Expense,Insurance,1241,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500199,2024-10-04,Expense,Shopping,1400,Cash,Myntra,Mumbai,Primary Savings,0,Lifestyle
+501037,2024-10-04,Expense,Shopping,1949,Cash,Flipkart,Mumbai,Primary Savings,0,Lifestyle
+500071,2024-10-05,Expense,Rent,13535,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500798,2024-10-05,Expense,Rent,12039,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500298,2024-10-06,Expense,Utilities,1657,Credit Card,Internet Provider,Mumbai,Credit Card Account,0,Essential
+500072,2024-10-07,Expense,Loan EMI,3154,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501072,2024-10-07,Expense,Fitness,463,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500564,2024-10-08,Expense,Fitness,802,Net Banking,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500447,2024-10-09,Expense,Dining Out,1106,Debit Card,Zomato,Mumbai,Salary Account,0,Lifestyle
+500487,2024-10-10,Expense,Insurance,2094,Net Banking,LIC Premium,Mumbai,Primary Savings,0,Essential
+500337,2024-10-11,Expense,Dining Out,574,Cash,Zomato,Mumbai,Salary Account,0,Lifestyle
+500675,2024-10-12,Expense,Transport,720,Net Banking,Metro Card,Mumbai,Salary Account,0,Essential
+500272,2024-10-13,Expense,Groceries,1063,Net Banking,Reliance Fresh,Mumbai,Salary Account,0,Essential
+500376,2024-10-15,Expense,Dining Out,305,Credit Card,Zomato,Mumbai,Credit Card Account,0,Lifestyle
+500547,2024-10-17,Expense,Entertainment,530,Debit Card,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+501204,2024-10-18,Expense,Fitness,525,Credit Card,Gym Membership,Mumbai,Credit Card Account,0,Lifestyle
+500509,2024-10-19,Expense,Rent,14978,Net Banking,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500301,2024-10-20,Income,Freelance,8084,Cash,Upwork,Mumbai,Primary Savings,0,Income
+500806,2024-10-22,Expense,Rent,12868,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500246,2024-10-23,Expense,Travel,16593,Debit Card,MakeMyTrip,Mumbai,Primary Savings,0,Lifestyle
+500868,2024-10-23,Expense,Transport,320,UPI,Ola,Hyderabad,Salary Account,0,Essential
+501184,2024-10-25,Income,Interest,672,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+500367,2024-10-25,Income,Freelance,4338,Net Banking,Direct Client,Mumbai,Salary Account,0,Income
+500841,2024-10-28,Expense,Fitness,537,Credit Card,Gym Membership,Mumbai,Credit Card Account,0,Lifestyle
+500546,2024-10-29,Expense,Transport,312,Cash,Petrol Pump,Hyderabad,Salary Account,0,Essential
+500694,2024-10-29,Expense,Fitness,892,Debit Card,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+501097,2024-10-31,Expense,Fitness,706,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500695,2024-10-31,Expense,Groceries,692,UPI,Reliance Fresh,Delhi,Primary Savings,0,Essential
+501213,2024-10-31,Expense,Fitness,891,Cash,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+500978,2024-10-31,Expense,Entertainment,468,UPI,Netflix,Mumbai,Salary Account,0,Lifestyle
+500871,2024-11-01,Expense,Utilities,1266,Cash,Water Dept,Mumbai,Salary Account,0,Essential
+500073,2024-11-01,Income,Salary,79196,Credit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500512,2024-11-01,Income,Freelance,4202,Net Banking,Upwork,Mumbai,Salary Account,0,Income
+500130,2024-11-01,Expense,Travel,1849,Net Banking,IRCTC,Mumbai,Salary Account,0,Lifestyle
+501082,2024-11-01,Expense,Healthcare,1289,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500074,2024-11-05,Expense,Rent,13667,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500415,2024-11-05,Expense,Groceries,415,UPI,Local Kirana,Mumbai,Salary Account,0,Essential
+500626,2024-11-06,Expense,Groceries,598,UPI,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+501013,2024-11-07,Expense,Rent,13998,Debit Card,Landlord Transfer,Delhi,Primary Savings,0,Essential
+500075,2024-11-07,Expense,Loan EMI,3168,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500435,2024-11-07,Expense,Utilities,951,Net Banking,Water Dept,Mumbai,Salary Account,0,Essential
+500585,2024-11-08,Expense,Utilities,1676,Credit Card,Water Dept,Mumbai,Credit Card Account,0,Essential
+501045,2024-11-08,Expense,Shopping,1258,Debit Card,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500425,2024-11-08,Expense,Rent,12933,Cash,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500560,2024-11-09,Income,Freelance,3581,Debit Card,Direct Client,Mumbai,Salary Account,0,Income
+501090,2024-11-09,Expense,Dining Out,466,Cash,Swiggy,Hyderabad,Primary Savings,0,Lifestyle
+500933,2024-11-10,Expense,Insurance,1958,Credit Card,Health Insurance Co,Bengaluru,Credit Card Account,0,Essential
+500971,2024-11-12,Expense,Groceries,1095,Cash,Local Kirana,Mumbai,Salary Account,0,Essential
+500224,2024-11-14,Expense,Subscriptions,251,UPI,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+500827,2024-11-16,Income,Freelance,8084,Credit Card,Direct Client,Delhi,Credit Card Account,0,Income
+500163,2024-11-17,Expense,Groceries,695,Credit Card,Local Kirana,Mumbai,Credit Card Account,0,Essential
+500534,2024-11-17,Income,Interest,991,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+501053,2024-11-18,Income,Investment Returns,556,Cash,Stock Dividend,Mumbai,Primary Savings,0,Income
+501120,2024-11-18,Expense,Subscriptions,337,UPI,Disney+ Hotstar,Mumbai,Salary Account,0,Lifestyle
+500616,2024-11-19,Expense,Entertainment,798,Net Banking,Netflix,Mumbai,Salary Account,0,Lifestyle
+500953,2024-11-19,Income,Investment Returns,2832,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+500818,2024-11-21,Expense,Entertainment,398,Debit Card,Netflix,Mumbai,Primary Savings,0,Lifestyle
+500372,2024-11-23,Expense,Education,735,Cash,Tuition Fees,Mumbai,Salary Account,0,Essential
+501154,2024-11-25,Expense,Subscriptions,334,UPI,YouTube Premium,Mumbai,Salary Account,0,Lifestyle
+500846,2024-11-25,Income,Freelance,6446,Net Banking,Upwork,Mumbai,Salary Account,0,Income
+500642,2024-11-25,Expense,Travel,1523,Net Banking,IRCTC,Mumbai,Salary Account,0,Lifestyle
+500428,2024-11-25,Expense,Education,807,Credit Card,Book Store,Mumbai,Credit Card Account,0,Essential
+500789,2024-11-26,Expense,Transport,561,UPI,Metro Card,Mumbai,Salary Account,0,Essential
+500794,2024-11-27,Expense,Education,2220,Net Banking,Book Store,Mumbai,Salary Account,0,Essential
+500076,2024-12-01,Income,Salary,80154,Cash,Employer Inc.,Mumbai,Salary Account,0,Income
+500859,2024-12-01,Expense,Education,2540,Credit Card,Book Store,Mumbai,Credit Card Account,0,Essential
+500494,2024-12-02,Expense,Healthcare,746,UPI,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+500476,2024-12-03,Expense,Loan EMI,3500,Debit Card,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500676,2024-12-04,Expense,Transport,679,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500755,2024-12-05,Expense,Loan EMI,5463,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500077,2024-12-05,Expense,Rent,13419,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+501008,2024-12-06,Expense,Education,2079,Net Banking,Udemy,Mumbai,Primary Savings,0,Essential
+500250,2024-12-07,Income,Interest,1039,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+500168,2024-12-07,Expense,Fitness,577,UPI,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500078,2024-12-07,Expense,Loan EMI,4510,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501182,2024-12-08,Expense,Transport,512,Cash,Metro Card,Pune,Primary Savings,0,Essential
+500422,2024-12-08,Income,Freelance,10443,Net Banking,Upwork,Hyderabad,Primary Savings,0,Income
+500574,2024-12-10,Income,Investment Returns,1559,Credit Card,Stock Dividend,Mumbai,Credit Card Account,0,Income
+500413,2024-12-10,Expense,Travel,2990,Net Banking,IRCTC,Mumbai,Salary Account,0,Lifestyle
+500772,2024-12-12,Expense,Loan EMI,3070,Debit Card,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500380,2024-12-15,Expense,Groceries,1329,Debit Card,BigBasket,Mumbai,Salary Account,0,Essential
+500940,2024-12-19,Income,Interest,966,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+501174,2024-12-19,Expense,Rent,14171,Cash,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500801,2024-12-20,Expense,Subscriptions,180,Net Banking,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+501205,2024-12-20,Expense,Rent,12756,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500873,2024-12-22,Expense,Loan EMI,3182,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500869,2024-12-25,Expense,Dining Out,631,Net Banking,Swiggy,Pune,Primary Savings,0,Lifestyle
+501163,2024-12-25,Expense,Travel,4025,UPI,IRCTC,Mumbai,Salary Account,0,Lifestyle
+501132,2024-12-27,Expense,Fitness,631,Net Banking,Gym Membership,Hyderabad,Primary Savings,0,Lifestyle
+500079,2024-12-28,Income,Bonus,13292,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500594,2024-12-29,Expense,Loan EMI,4433,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+501020,2024-12-29,Expense,Insurance,1956,UPI,LIC Premium,Mumbai,Salary Account,0,Essential
+500362,2024-12-29,Income,Interest,726,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500688,2024-12-30,Income,Investment Returns,515,Net Banking,Mutual Fund,Mumbai,Salary Account,0,Income
+500080,2025-01-01,Income,Salary,74153,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500877,2025-01-01,Expense,Loan EMI,4730,Cash,Bank Loan Dept,Bengaluru,Salary Account,0,Essential
+500478,2025-01-01,Expense,Education,1459,Cash,Book Store,Mumbai,Salary Account,0,Essential
+500531,2025-01-01,Expense,Subscriptions,578,Debit Card,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+500306,2025-01-02,Expense,Shopping,1521,Debit Card,Flipkart,Hyderabad,Primary Savings,0,Lifestyle
+500550,2025-01-03,Income,Freelance,3401,Net Banking,Direct Client,Mumbai,Primary Savings,0,Income
+501010,2025-01-03,Expense,Healthcare,980,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500710,2025-01-03,Expense,Rent,13889,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500899,2025-01-04,Expense,Shopping,1377,Net Banking,Amazon,Mumbai,Primary Savings,0,Lifestyle
+500665,2025-01-05,Expense,Healthcare,296,Cash,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500081,2025-01-05,Expense,Rent,12664,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500284,2025-01-06,Expense,Dining Out,818,Credit Card,Cafe Coffee Day,Bengaluru,Credit Card Account,0,Lifestyle
+500931,2025-01-07,Expense,Transport,166,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500082,2025-01-07,Expense,Loan EMI,4801,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500357,2025-01-08,Income,Investment Returns,1447,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+500329,2025-01-08,Income,Interest,279,UPI,Savings Bank,Mumbai,Primary Savings,0,Income
+500414,2025-01-09,Expense,Loan EMI,4120,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500338,2025-01-12,Expense,Loan EMI,3182,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+501065,2025-01-12,Income,Freelance,10815,Debit Card,Direct Client,Mumbai,Salary Account,0,Income
+500703,2025-01-12,Expense,Insurance,7446,UPI,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500456,2025-01-13,Expense,Education,2086,Debit Card,Book Store,Mumbai,Primary Savings,0,Essential
+500946,2025-01-14,Expense,Insurance,1807,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500570,2025-01-15,Income,Investment Returns,2911,UPI,Stock Dividend,Mumbai,Primary Savings,0,Income
+500586,2025-01-15,Expense,Travel,3629,Net Banking,IRCTC,Mumbai,Primary Savings,0,Lifestyle
+500452,2025-01-16,Expense,Shopping,1680,Cash,Flipkart,Delhi,Salary Account,0,Lifestyle
+501048,2025-01-16,Expense,Insurance,1227,Net Banking,LIC Premium,Mumbai,Primary Savings,0,Essential
+500359,2025-01-18,Expense,Subscriptions,649,Debit Card,Amazon Prime,Delhi,Primary Savings,0,Lifestyle
+500455,2025-01-19,Expense,Utilities,933,Debit Card,Gas Agency,Mumbai,Primary Savings,0,Essential
+500601,2025-01-21,Expense,Shopping,738,Cash,Myntra,Mumbai,Primary Savings,0,Lifestyle
+500528,2025-01-21,Expense,Fitness,858,Debit Card,Sports Store,Hyderabad,Salary Account,0,Lifestyle
+500150,2025-01-21,Income,Interest,371,Net Banking,Savings Bank,Mumbai,Primary Savings,0,Income
+500473,2025-01-22,Expense,Subscriptions,415,Cash,Disney+ Hotstar,Mumbai,Salary Account,0,Lifestyle
+500829,2025-01-23,Expense,Subscriptions,504,Debit Card,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500968,2025-01-24,Expense,Subscriptions,389,Net Banking,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500148,2025-01-24,Expense,Loan EMI,4308,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500882,2025-01-25,Expense,Loan EMI,3891,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500270,2025-01-26,Income,Interest,108,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500175,2025-01-29,Expense,Shopping,1940,UPI,Amazon,Mumbai,Primary Savings,0,Lifestyle
+500334,2025-01-29,Expense,Entertainment,473,Credit Card,Netflix,Mumbai,Credit Card Account,0,Lifestyle
+501155,2025-01-29,Expense,Utilities,1826,Debit Card,Electricity Board,Mumbai,Salary Account,0,Essential
+500627,2025-01-30,Expense,Transport,649,UPI,Ola,Mumbai,Salary Account,0,Essential
+500083,2025-02-01,Income,Salary,69135,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500973,2025-02-01,Income,Freelance,2345,Credit Card,Fiverr,Mumbai,Credit Card Account,0,Income
+500386,2025-02-01,Expense,Rent,12317,Net Banking,Landlord Transfer,Pune,Primary Savings,0,Essential
+500822,2025-02-01,Expense,Transport,484,Credit Card,Metro Card,Mumbai,Credit Card Account,0,Essential
+501034,2025-02-01,Expense,Insurance,2362,Debit Card,LIC Premium,Mumbai,Salary Account,0,Essential
+500341,2025-02-02,Income,Interest,209,Credit Card,Savings Bank,Pune,Credit Card Account,0,Income
+500383,2025-02-02,Income,Freelance,10310,Credit Card,Direct Client,Mumbai,Credit Card Account,0,Income
+500775,2025-02-03,Expense,Shopping,732,Debit Card,Amazon,Mumbai,Salary Account,0,Lifestyle
+500588,2025-02-04,Expense,Dining Out,296,Net Banking,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500084,2025-02-05,Expense,Rent,13979,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500527,2025-02-05,Expense,Insurance,1807,Net Banking,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500160,2025-02-06,Expense,Healthcare,455,Cash,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500516,2025-02-06,Expense,Loan EMI,4714,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500085,2025-02-07,Expense,Loan EMI,2735,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500134,2025-02-07,Expense,Rent,12681,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+501192,2025-02-10,Expense,Shopping,301,Net Banking,Amazon,Mumbai,Salary Account,0,Lifestyle
+500448,2025-02-12,Expense,Entertainment,774,Net Banking,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500444,2025-02-12,Expense,Fitness,456,Cash,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500813,2025-02-14,Expense,Entertainment,271,Cash,BookMyShow,Pune,Primary Savings,0,Lifestyle
+500672,2025-02-14,Expense,Education,2060,Net Banking,Udemy,Mumbai,Primary Savings,0,Essential
+500520,2025-02-15,Expense,Entertainment,512,Net Banking,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+500981,2025-02-16,Expense,Utilities,1546,Net Banking,Electricity Board,Mumbai,Primary Savings,0,Essential
+500212,2025-02-17,Expense,Shopping,1943,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+500839,2025-02-18,Expense,Groceries,807,Net Banking,Reliance Fresh,Mumbai,Salary Account,0,Essential
+500416,2025-02-19,Expense,Rent,12170,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500214,2025-02-19,Expense,Shopping,1929,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+500667,2025-02-20,Expense,Dining Out,773,Cash,Zomato,Mumbai,Salary Account,0,Lifestyle
+500441,2025-02-23,Expense,Dining Out,848,Credit Card,Zomato,Mumbai,Credit Card Account,0,Lifestyle
+500193,2025-02-25,Expense,Transport,456,Net Banking,Petrol Pump,Pune,Primary Savings,0,Essential
+500388,2025-02-27,Income,Investment Returns,2945,Credit Card,Mutual Fund,Mumbai,Credit Card Account,0,Income
+500429,2025-02-28,Expense,Insurance,1748,Net Banking,LIC Premium,Mumbai,Salary Account,0,Essential
+500086,2025-03-01,Income,Salary,81713,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+501209,2025-03-01,Expense,Rent,14274,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500236,2025-03-01,Expense,Utilities,1398,UPI,Electricity Board,Hyderabad,Primary Savings,0,Essential
+500886,2025-03-01,Expense,Healthcare,275,UPI,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+500776,2025-03-01,Expense,Dining Out,668,Net Banking,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+500483,2025-03-02,Expense,Travel,1734,Debit Card,IRCTC,Mumbai,Primary Savings,0,Lifestyle
+500340,2025-03-03,Expense,Subscriptions,587,Cash,YouTube Premium,Mumbai,Salary Account,0,Lifestyle
+500403,2025-03-03,Expense,Travel,5271,UPI,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+501172,2025-03-03,Expense,Entertainment,526,Cash,Spotify,Pune,Salary Account,0,Lifestyle
+500539,2025-03-04,Expense,Fitness,728,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500711,2025-03-04,Expense,Transport,567,Net Banking,Petrol Pump,Mumbai,Salary Account,0,Essential
+501052,2025-03-05,Expense,Education,1467,Credit Card,Tuition Fees,Mumbai,Credit Card Account,0,Essential
+500087,2025-03-05,Expense,Rent,13056,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500723,2025-03-05,Expense,Healthcare,1028,Debit Card,Diagnostic Lab,Mumbai,Primary Savings,0,Essential
+500514,2025-03-06,Expense,Healthcare,435,UPI,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+501092,2025-03-06,Expense,Insurance,1242,Cash,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500088,2025-03-07,Expense,Loan EMI,5196,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501030,2025-03-08,Expense,Loan EMI,4669,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500754,2025-03-08,Expense,Entertainment,280,UPI,Spotify,Mumbai,Primary Savings,0,Lifestyle
+501197,2025-03-08,Expense,Rent,13704,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500917,2025-03-09,Expense,Insurance,1341,UPI,LIC Premium,Mumbai,Primary Savings,0,Essential
+500954,2025-03-10,Expense,Groceries,1184,UPI,BigBasket,Mumbai,Salary Account,0,Essential
+501000,2025-03-12,Expense,Rent,14167,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500607,2025-03-12,Expense,Rent,12233,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500421,2025-03-12,Expense,Subscriptions,247,Net Banking,Amazon Prime,Pune,Primary Savings,0,Lifestyle
+501014,2025-03-13,Expense,Loan EMI,5989,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500278,2025-03-13,Income,Interest,796,Debit Card,Savings Bank,Bengaluru,Primary Savings,0,Income
+501203,2025-03-14,Expense,Insurance,1362,Credit Card,LIC Premium,Delhi,Credit Card Account,0,Essential
+500305,2025-03-19,Expense,Utilities,1852,UPI,Water Dept,Mumbai,Primary Savings,0,Essential
+500883,2025-03-20,Expense,Dining Out,581,Net Banking,Swiggy,Mumbai,Salary Account,0,Lifestyle
+500589,2025-03-21,Expense,Utilities,900,UPI,Internet Provider,Mumbai,Primary Savings,0,Essential
+500584,2025-03-21,Expense,Rent,14505,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500558,2025-03-23,Expense,Transport,893,UPI,Metro Card,Mumbai,Salary Account,0,Essential
+500206,2025-03-23,Expense,Shopping,693,Net Banking,Myntra,Mumbai,Salary Account,0,Lifestyle
+500419,2025-03-24,Expense,Entertainment,225,Net Banking,Spotify,Mumbai,Salary Account,0,Lifestyle
+501040,2025-03-25,Expense,Dining Out,583,Net Banking,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+500139,2025-03-26,Expense,Transport,157,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500651,2025-03-27,Expense,Entertainment,816,Credit Card,Spotify,Mumbai,Credit Card Account,0,Lifestyle
+500927,2025-03-27,Expense,Healthcare,726,Credit Card,Apollo Pharmacy,Bengaluru,Credit Card Account,0,Essential
+500089,2025-03-28,Income,Bonus,9749,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500172,2025-03-29,Expense,Travel,2964,Credit Card,Hotel Booking,Mumbai,Credit Card Account,0,Lifestyle
+500910,2025-03-29,Expense,Subscriptions,159,Debit Card,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500502,2025-03-31,Expense,Travel,3578,UPI,MakeMyTrip,Mumbai,Primary Savings,0,Lifestyle
+500090,2025-04-01,Income,Salary,68569,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500166,2025-04-02,Expense,Healthcare,1672,Net Banking,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500274,2025-04-03,Expense,Groceries,320,Credit Card,BigBasket,Mumbai,Credit Card Account,0,Essential
+500215,2025-04-03,Income,Interest,689,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500832,2025-04-04,Income,Investment Returns,4298,Cash,Stock Dividend,Mumbai,Salary Account,0,Income
+500929,2025-04-05,Expense,Groceries,1317,Cash,Reliance Fresh,Mumbai,Primary Savings,0,Essential
+500091,2025-04-05,Expense,Rent,12698,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500092,2025-04-07,Expense,Loan EMI,4115,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500810,2025-04-08,Expense,Healthcare,1174,Net Banking,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500766,2025-04-08,Expense,Loan EMI,4799,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500938,2025-04-09,Expense,Loan EMI,3091,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500365,2025-04-09,Expense,Healthcare,267,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+501019,2025-04-14,Expense,Rent,14947,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+501094,2025-04-16,Expense,Dining Out,306,Net Banking,Zomato,Mumbai,Primary Savings,0,Lifestyle
+501086,2025-04-16,Expense,Shopping,1966,Cash,Myntra,Mumbai,Salary Account,0,Lifestyle
+500390,2025-04-17,Expense,Fitness,905,Cash,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500543,2025-04-17,Expense,Groceries,873,Debit Card,Local Kirana,Mumbai,Primary Savings,0,Essential
+501179,2025-04-17,Expense,Fitness,558,Debit Card,Gym Membership,Mumbai,Primary Savings,0,Lifestyle
+501043,2025-04-18,Expense,Loan EMI,3930,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500947,2025-04-18,Expense,Groceries,1392,Debit Card,DMart,Mumbai,Salary Account,0,Essential
+500792,2025-04-19,Expense,Shopping,1800,Cash,Myntra,Mumbai,Salary Account,0,Lifestyle
+500536,2025-04-19,Expense,Entertainment,472,Debit Card,Spotify,Mumbai,Salary Account,0,Lifestyle
+500833,2025-04-19,Expense,Fitness,1099,Cash,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500557,2025-04-20,Expense,Dining Out,435,Cash,Zomato,Mumbai,Salary Account,0,Lifestyle
+500746,2025-04-21,Expense,Utilities,1003,UPI,Electricity Board,Mumbai,Salary Account,0,Essential
+500506,2025-04-21,Expense,Rent,13176,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500439,2025-04-22,Income,Freelance,9872,Credit Card,Fiverr,Bengaluru,Credit Card Account,0,Income
+500251,2025-04-22,Expense,Subscriptions,452,Cash,Disney+ Hotstar,Mumbai,Salary Account,0,Lifestyle
+500342,2025-04-26,Expense,Transport,809,UPI,Ola,Mumbai,Primary Savings,0,Essential
+501157,2025-04-27,Expense,Utilities,1217,UPI,Water Dept,Mumbai,Primary Savings,0,Essential
+500638,2025-04-27,Expense,Loan EMI,4377,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+501002,2025-04-29,Expense,Shopping,1461,Cash,Amazon,Mumbai,Salary Account,0,Lifestyle
+500093,2025-05-01,Income,Salary,69137,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+500828,2025-05-01,Expense,Subscriptions,519,Credit Card,YouTube Premium,Mumbai,Credit Card Account,0,Lifestyle
+500660,2025-05-04,Income,Freelance,4460,Debit Card,Upwork,Mumbai,Primary Savings,0,Income
+500094,2025-05-05,Expense,Rent,12619,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500762,2025-05-05,Income,Freelance,4149,Credit Card,Fiverr,Bengaluru,Credit Card Account,0,Income
+500382,2025-05-07,Expense,Utilities,922,Credit Card,Internet Provider,Mumbai,Credit Card Account,0,Essential
+500095,2025-05-07,Expense,Loan EMI,5554,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500962,2025-05-07,Expense,Travel,2342,Net Banking,Airline Booking,Mumbai,Primary Savings,0,Lifestyle
+501016,2025-05-08,Expense,Shopping,404,Net Banking,Flipkart,Mumbai,Primary Savings,0,Lifestyle
+501049,2025-05-09,Expense,Healthcare,1407,Debit Card,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+501100,2025-05-09,Expense,Transport,382,Cash,Uber,Mumbai,Salary Account,0,Essential
+500515,2025-05-09,Expense,Entertainment,414,Debit Card,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500683,2025-05-10,Expense,Shopping,869,Cash,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+501137,2025-05-11,Expense,Transport,451,Credit Card,Metro Card,Mumbai,Credit Card Account,0,Essential
+501187,2025-05-12,Expense,Dining Out,707,Debit Card,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+500992,2025-05-12,Expense,Fitness,676,UPI,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+501129,2025-05-12,Income,Interest,1094,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500252,2025-05-13,Expense,Shopping,755,UPI,Flipkart,Mumbai,Salary Account,0,Lifestyle
+500820,2025-05-13,Expense,Entertainment,624,Cash,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500923,2025-05-14,Expense,Subscriptions,354,Cash,Amazon Prime,Mumbai,Salary Account,0,Lifestyle
+500565,2025-05-16,Expense,Transport,865,Net Banking,Petrol Pump,Mumbai,Salary Account,0,Essential
+500757,2025-05-16,Expense,Groceries,715,Cash,DMart,Mumbai,Salary Account,0,Essential
+500571,2025-05-19,Expense,Shopping,318,Credit Card,Myntra,Mumbai,Credit Card Account,0,Lifestyle
+500384,2025-05-21,Expense,Utilities,1634,UPI,Gas Agency,Mumbai,Salary Account,0,Essential
+500715,2025-05-27,Expense,Entertainment,631,UPI,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500725,2025-05-29,Expense,Healthcare,635,Debit Card,Apollo Pharmacy,Mumbai,Primary Savings,0,Essential
+500844,2025-05-30,Expense,Utilities,1454,UPI,Internet Provider,Mumbai,Salary Account,0,Essential
+500314,2025-05-31,Expense,Subscriptions,635,Credit Card,Disney+ Hotstar,Hyderabad,Credit Card Account,0,Lifestyle
+500698,2025-06-01,Expense,Rent,12830,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500096,2025-06-01,Income,Salary,79935,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500276,2025-06-02,Expense,Utilities,919,Cash,Electricity Board,Mumbai,Primary Savings,0,Essential
+500699,2025-06-03,Income,Freelance,9373,Credit Card,Upwork,Mumbai,Credit Card Account,0,Income
+500480,2025-06-03,Expense,Rent,14591,Cash,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500097,2025-06-05,Expense,Rent,13033,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500098,2025-06-07,Expense,Loan EMI,3071,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500401,2025-06-08,Expense,Shopping,1851,Net Banking,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500980,2025-06-08,Expense,Subscriptions,260,Debit Card,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500258,2025-06-08,Income,Interest,383,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+500317,2025-06-09,Expense,Groceries,953,Debit Card,DMart,Mumbai,Primary Savings,0,Essential
+500260,2025-06-10,Expense,Education,2200,Cash,Tuition Fees,Mumbai,Salary Account,0,Essential
+501151,2025-06-11,Income,Investment Returns,1444,Cash,Stock Dividend,Mumbai,Primary Savings,0,Income
+500432,2025-06-12,Expense,Fitness,382,UPI,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500649,2025-06-12,Expense,Entertainment,775,Net Banking,Gaming Store,Mumbai,Primary Savings,0,Lifestyle
+500296,2025-06-14,Expense,Utilities,1571,Credit Card,Water Dept,Mumbai,Credit Card Account,0,Essential
+500737,2025-06-14,Expense,Entertainment,698,Debit Card,Netflix,Mumbai,Salary Account,0,Lifestyle
+500308,2025-06-15,Expense,Education,788,Net Banking,Coursera,Mumbai,Primary Savings,0,Essential
+500523,2025-06-16,Expense,Rent,14888,UPI,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500265,2025-06-16,Income,Interest,1067,Debit Card,Savings Bank,Mumbai,Salary Account,0,Income
+501066,2025-06-19,Income,Investment Returns,3177,Debit Card,Stock Dividend,Mumbai,Primary Savings,0,Income
+500599,2025-06-19,Expense,Entertainment,403,UPI,Gaming Store,Bengaluru,Primary Savings,0,Lifestyle
+500692,2025-06-19,Expense,Education,1672,Credit Card,Udemy,Mumbai,Credit Card Account,0,Essential
+500501,2025-06-21,Expense,Fitness,378,Net Banking,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500738,2025-06-21,Expense,Utilities,1388,Debit Card,Internet Provider,Mumbai,Salary Account,0,Essential
+500197,2025-06-21,Income,Interest,984,Net Banking,Savings Bank,Mumbai,Salary Account,0,Income
+500793,2025-06-21,Expense,Fitness,687,UPI,Sports Store,Mumbai,Salary Account,0,Lifestyle
+501214,2025-06-22,Expense,Fitness,792,Cash,Gym Membership,Pune,Primary Savings,0,Lifestyle
+501162,2025-06-24,Expense,Transport,355,Debit Card,Petrol Pump,Pune,Primary Savings,0,Essential
+500763,2025-06-24,Expense,Entertainment,643,UPI,Spotify,Pune,Primary Savings,0,Lifestyle
+500128,2025-06-25,Expense,Shopping,444,Net Banking,Amazon,Mumbai,Primary Savings,0,Lifestyle
+500242,2025-06-26,Expense,Shopping,1032,Debit Card,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500434,2025-06-27,Expense,Loan EMI,5092,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500099,2025-06-28,Income,Bonus,15653,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500262,2025-06-29,Expense,Rent,14315,Cash,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500880,2025-06-30,Expense,Healthcare,1756,Credit Card,Diagnostic Lab,Mumbai,Credit Card Account,0,Essential
+500297,2025-06-30,Expense,Fitness,489,Cash,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+500100,2025-07-01,Income,Salary,76611,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500641,2025-07-01,Expense,Shopping,843,UPI,Amazon,Mumbai,Primary Savings,0,Lifestyle
+500479,2025-07-01,Expense,Entertainment,234,Credit Card,BookMyShow,Hyderabad,Credit Card Account,0,Lifestyle
+500244,2025-07-01,Expense,Loan EMI,4438,Credit Card,Bank Loan Dept,Hyderabad,Credit Card Account,0,Essential
+500977,2025-07-02,Expense,Rent,13507,UPI,Landlord Transfer,Hyderabad,Primary Savings,0,Essential
+500187,2025-07-02,Expense,Fitness,701,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500257,2025-07-02,Expense,Education,1154,Credit Card,Tuition Fees,Mumbai,Credit Card Account,0,Essential
+500269,2025-07-03,Income,Investment Returns,1436,Debit Card,Stock Dividend,Mumbai,Primary Savings,0,Income
+500974,2025-07-03,Expense,Education,9032,Credit Card,Coursera,Mumbai,Credit Card Account,0,Essential
+500852,2025-07-04,Expense,Dining Out,445,Debit Card,Zomato,Mumbai,Primary Savings,0,Lifestyle
+500101,2025-07-05,Expense,Rent,12868,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500691,2025-07-06,Expense,Shopping,529,Cash,Amazon,Mumbai,Primary Savings,0,Lifestyle
+501075,2025-07-07,Expense,Loan EMI,5893,Debit Card,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500102,2025-07-07,Expense,Loan EMI,5933,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500696,2025-07-09,Expense,Loan EMI,3894,Cash,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500593,2025-07-12,Expense,Dining Out,316,UPI,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500481,2025-07-13,Expense,Rent,12453,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500375,2025-07-14,Expense,Utilities,963,Credit Card,Gas Agency,Bengaluru,Credit Card Account,0,Essential
+500908,2025-07-16,Expense,Subscriptions,406,Debit Card,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+501201,2025-07-17,Expense,Education,885,UPI,Book Store,Mumbai,Salary Account,0,Essential
+500326,2025-07-21,Expense,Dining Out,424,Credit Card,Swiggy,Hyderabad,Credit Card Account,0,Lifestyle
+500934,2025-07-21,Expense,Travel,5312,Net Banking,Hotel Booking,Mumbai,Salary Account,0,Lifestyle
+500848,2025-07-26,Expense,Rent,12148,Debit Card,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500712,2025-07-26,Expense,Fitness,1059,Net Banking,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+501126,2025-07-27,Expense,Shopping,629,Net Banking,Amazon,Mumbai,Salary Account,0,Lifestyle
+500156,2025-07-28,Expense,Entertainment,750,Debit Card,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500253,2025-07-29,Expense,Subscriptions,561,Cash,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+501088,2025-07-30,Expense,Entertainment,801,Debit Card,Spotify,Mumbai,Salary Account,0,Lifestyle
+500926,2025-08-01,Income,Freelance,7853,Cash,Direct Client,Delhi,Salary Account,0,Income
+500103,2025-08-01,Income,Salary,73992,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500137,2025-08-01,Expense,Utilities,1487,Debit Card,Electricity Board,Mumbai,Primary Savings,0,Essential
+500632,2025-08-01,Expense,Dining Out,1038,UPI,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+501022,2025-08-03,Expense,Insurance,1964,Debit Card,LIC Premium,Mumbai,Primary Savings,0,Essential
+500836,2025-08-03,Expense,Healthcare,1506,Debit Card,Hospital Visit,Mumbai,Salary Account,0,Essential
+500648,2025-08-03,Expense,Subscriptions,303,Net Banking,Amazon Prime,Mumbai,Primary Savings,0,Lifestyle
+500563,2025-08-05,Expense,Loan EMI,4478,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500346,2025-08-05,Expense,Education,2063,UPI,Coursera,Mumbai,Primary Savings,0,Essential
+500104,2025-08-05,Expense,Rent,14463,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500972,2025-08-06,Expense,Utilities,1503,Net Banking,Water Dept,Mumbai,Primary Savings,0,Essential
+500105,2025-08-07,Expense,Loan EMI,5665,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500925,2025-08-09,Expense,Shopping,583,Net Banking,Amazon,Bengaluru,Primary Savings,0,Lifestyle
+501148,2025-08-11,Expense,Insurance,1808,Credit Card,LIC Premium,Mumbai,Credit Card Account,0,Essential
+500545,2025-08-12,Expense,Transport,169,UPI,Ola,Mumbai,Primary Savings,0,Essential
+500613,2025-08-13,Income,Investment Returns,1006,Debit Card,Mutual Fund,Mumbai,Primary Savings,0,Income
+500650,2025-08-15,Expense,Loan EMI,4341,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500497,2025-08-16,Income,Freelance,8969,UPI,Direct Client,Mumbai,Primary Savings,0,Income
+500378,2025-08-19,Income,Freelance,6958,Credit Card,Fiverr,Mumbai,Credit Card Account,0,Income
+501081,2025-08-20,Expense,Education,2562,Net Banking,Udemy,Mumbai,Salary Account,0,Essential
+500765,2025-08-21,Expense,Dining Out,581,Debit Card,Local Restaurant,Pune,Salary Account,0,Lifestyle
+500288,2025-08-22,Expense,Education,2198,Credit Card,Udemy,Mumbai,Credit Card Account,0,Essential
+500143,2025-08-22,Expense,Utilities,1252,UPI,Gas Agency,Mumbai,Primary Savings,0,Essential
+500960,2025-08-22,Expense,Utilities,1163,Cash,Gas Agency,Hyderabad,Salary Account,0,Essential
+500704,2025-08-22,Expense,Entertainment,857,Credit Card,BookMyShow,Mumbai,Credit Card Account,0,Lifestyle
+501218,2025-08-23,Expense,Fitness,1016,Credit Card,Sports Store,Mumbai,Credit Card Account,0,Lifestyle
+500985,2025-08-23,Expense,Groceries,1013,Cash,BigBasket,Mumbai,Primary Savings,0,Essential
+500595,2025-08-24,Income,Investment Returns,514,Credit Card,Mutual Fund,Mumbai,Credit Card Account,0,Income
+500685,2025-08-24,Expense,Shopping,489,Credit Card,Myntra,Pune,Credit Card Account,0,Lifestyle
+500865,2025-08-25,Expense,Loan EMI,5534,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500995,2025-08-26,Expense,Loan EMI,3003,Cash,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500186,2025-08-27,Income,Freelance,4893,Cash,Direct Client,Mumbai,Salary Account,0,Income
+500178,2025-08-27,Expense,Groceries,1312,Net Banking,Local Kirana,Mumbai,Primary Savings,0,Essential
+501175,2025-08-30,Expense,Rent,13743,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500718,2025-08-30,Income,Interest,585,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500617,2025-08-30,Expense,Entertainment,491,Debit Card,BookMyShow,Mumbai,Salary Account,0,Lifestyle
+500294,2025-08-31,Expense,Loan EMI,4097,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500106,2025-09-01,Income,Salary,74980,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+501039,2025-09-02,Expense,Education,2095,Cash,Coursera,Mumbai,Primary Savings,0,Essential
+500919,2025-09-03,Expense,Entertainment,777,Cash,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+500716,2025-09-03,Expense,Utilities,1318,Net Banking,Electricity Board,Mumbai,Salary Account,0,Essential
+500904,2025-09-05,Income,Investment Returns,3683,Debit Card,Mutual Fund,Mumbai,Primary Savings,0,Income
+500107,2025-09-05,Expense,Rent,13261,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500108,2025-09-07,Expense,Loan EMI,3068,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501160,2025-09-07,Expense,Fitness,408,Credit Card,Gym Membership,Mumbai,Credit Card Account,0,Lifestyle
+500819,2025-09-07,Expense,Groceries,1280,Net Banking,DMart,Mumbai,Primary Savings,0,Essential
+500418,2025-09-07,Expense,Entertainment,405,Credit Card,BookMyShow,Mumbai,Credit Card Account,0,Lifestyle
+500353,2025-09-09,Expense,Utilities,846,Debit Card,Water Dept,Mumbai,Salary Account,0,Essential
+500132,2025-09-12,Expense,Education,2064,Debit Card,Udemy,Mumbai,Salary Account,0,Essential
+500597,2025-09-12,Expense,Fitness,375,Cash,Yoga Studio,Mumbai,Salary Account,0,Lifestyle
+501015,2025-09-14,Expense,Healthcare,486,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500235,2025-09-16,Expense,Travel,2924,UPI,Airline Booking,Mumbai,Salary Account,0,Lifestyle
+500433,2025-09-17,Expense,Rent,14066,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500786,2025-09-17,Expense,Fitness,995,Credit Card,Yoga Studio,Mumbai,Credit Card Account,0,Lifestyle
+500884,2025-09-18,Expense,Entertainment,296,Credit Card,Spotify,Mumbai,Credit Card Account,0,Lifestyle
+500918,2025-09-18,Expense,Dining Out,662,Cash,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500275,2025-09-19,Expense,Education,1748,Net Banking,Book Store,Mumbai,Salary Account,0,Essential
+500227,2025-09-19,Expense,Entertainment,872,Cash,Netflix,Mumbai,Salary Account,0,Lifestyle
+501036,2025-09-20,Expense,Education,2457,Net Banking,Tuition Fees,Mumbai,Primary Savings,0,Essential
+501178,2025-09-21,Income,Freelance,5552,UPI,Fiverr,Mumbai,Salary Account,0,Income
+500787,2025-09-21,Expense,Loan EMI,2552,Net Banking,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500231,2025-09-21,Expense,Entertainment,399,Debit Card,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500355,2025-09-23,Income,Interest,987,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+500176,2025-09-23,Expense,Fitness,1038,Net Banking,Yoga Studio,Mumbai,Primary Savings,0,Lifestyle
+500605,2025-09-24,Expense,Dining Out,383,Net Banking,Zomato,Mumbai,Primary Savings,0,Lifestyle
+501003,2025-09-26,Expense,Loan EMI,4161,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500165,2025-09-26,Expense,Shopping,1602,Debit Card,Myntra,Bengaluru,Salary Account,0,Lifestyle
+500109,2025-09-28,Income,Bonus,13754,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500518,2025-09-28,Expense,Insurance,2224,Cash,LIC Premium,Mumbai,Primary Savings,0,Essential
+501135,2025-09-29,Expense,Transport,216,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500979,2025-10-01,Expense,Loan EMI,19026,Debit Card,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500110,2025-10-01,Income,Salary,77640,UPI,Employer Inc.,Mumbai,Salary Account,0,Income
+500222,2025-10-02,Income,Freelance,3423,Net Banking,Direct Client,Mumbai,Salary Account,0,Income
+500280,2025-10-04,Expense,Rent,14459,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500111,2025-10-05,Expense,Rent,14952,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500756,2025-10-05,Expense,Dining Out,3087,Credit Card,Swiggy,Mumbai,Credit Card Account,0,Lifestyle
+501073,2025-10-06,Income,Freelance,9645,Debit Card,Upwork,Mumbai,Salary Account,0,Income
+500986,2025-10-06,Expense,Subscriptions,247,UPI,Disney+ Hotstar,Mumbai,Primary Savings,0,Lifestyle
+500928,2025-10-07,Expense,Groceries,598,Credit Card,Reliance Fresh,Mumbai,Credit Card Account,0,Essential
+500987,2025-10-07,Expense,Entertainment,477,Net Banking,Netflix,Mumbai,Salary Account,0,Lifestyle
+500112,2025-10-07,Expense,Loan EMI,2541,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+501103,2025-10-07,Expense,Travel,1636,Net Banking,MakeMyTrip,Mumbai,Salary Account,0,Lifestyle
+500778,2025-10-08,Expense,Utilities,1775,Cash,Electricity Board,Mumbai,Primary Savings,0,Essential
+500997,2025-10-09,Expense,Subscriptions,639,Cash,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+500817,2025-10-15,Expense,Rent,13304,UPI,Landlord Transfer,Bengaluru,Primary Savings,0,Essential
+500320,2025-10-16,Expense,Fitness,1056,Cash,Sports Store,Mumbai,Primary Savings,0,Lifestyle
+500277,2025-10-16,Expense,Rent,12136,Debit Card,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500173,2025-10-17,Income,Interest,593,Credit Card,Savings Bank,Mumbai,Credit Card Account,0,Income
+500937,2025-10-18,Expense,Groceries,1201,UPI,DMart,Mumbai,Primary Savings,0,Essential
+500533,2025-10-19,Income,Freelance,10891,UPI,Fiverr,Hyderabad,Primary Savings,0,Income
+500549,2025-10-20,Expense,Rent,12741,Debit Card,Landlord Transfer,Pune,Salary Account,0,Essential
+500159,2025-10-20,Expense,Education,2334,UPI,Udemy,Mumbai,Primary Savings,0,Essential
+500736,2025-10-21,Expense,Groceries,482,Debit Card,DMart,Mumbai,Salary Account,0,Essential
+500795,2025-10-21,Expense,Education,2099,UPI,Coursera,Mumbai,Primary Savings,0,Essential
+501199,2025-10-23,Income,Interest,859,Debit Card,Savings Bank,Mumbai,Primary Savings,0,Income
+501128,2025-10-25,Income,Investment Returns,3329,Cash,Stock Dividend,Mumbai,Primary Savings,0,Income
+500371,2025-10-27,Expense,Education,927,Debit Card,Tuition Fees,Mumbai,Primary Savings,0,Essential
+500458,2025-10-27,Expense,Loan EMI,5958,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500370,2025-10-27,Expense,Healthcare,381,Credit Card,Apollo Pharmacy,Mumbai,Credit Card Account,0,Essential
+500727,2025-10-29,Expense,Utilities,780,UPI,Internet Provider,Mumbai,Primary Savings,0,Essential
+500885,2025-10-30,Expense,Entertainment,564,Net Banking,BookMyShow,Mumbai,Primary Savings,0,Lifestyle
+500113,2025-11-01,Income,Salary,74264,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+500268,2025-11-03,Expense,Insurance,1450,Cash,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500663,2025-11-04,Expense,Transport,443,Credit Card,Uber,Mumbai,Credit Card Account,0,Essential
+500690,2025-11-05,Expense,Dining Out,524,Debit Card,Swiggy,Mumbai,Primary Savings,0,Lifestyle
+500114,2025-11-05,Expense,Rent,13083,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500333,2025-11-06,Expense,Rent,12029,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+500115,2025-11-07,Expense,Loan EMI,4931,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500572,2025-11-10,Expense,Rent,13372,Cash,Landlord Transfer,Delhi,Salary Account,0,Essential
+501139,2025-11-11,Expense,Shopping,786,UPI,Amazon,Mumbai,Primary Savings,0,Lifestyle
+500537,2025-11-11,Expense,Dining Out,1020,Net Banking,Local Restaurant,Mumbai,Salary Account,0,Lifestyle
+500894,2025-11-11,Expense,Subscriptions,503,Net Banking,Disney+ Hotstar,Mumbai,Salary Account,0,Lifestyle
+500639,2025-11-13,Expense,Groceries,682,Credit Card,Reliance Fresh,Mumbai,Credit Card Account,0,Essential
+500402,2025-11-15,Expense,Travel,3351,Net Banking,IRCTC,Hyderabad,Primary Savings,0,Lifestyle
+500356,2025-11-15,Expense,Travel,3039,Credit Card,Airline Booking,Mumbai,Credit Card Account,0,Lifestyle
+501079,2025-11-15,Expense,Fitness,997,UPI,Gym Membership,Mumbai,Salary Account,0,Lifestyle
+500686,2025-11-15,Expense,Insurance,1935,Cash,Health Insurance Co,Mumbai,Primary Savings,0,Essential
+500209,2025-11-17,Income,Freelance,5043,UPI,Upwork,Mumbai,Primary Savings,0,Income
+500495,2025-11-18,Expense,Shopping,854,Cash,Amazon,Bengaluru,Salary Account,0,Lifestyle
+500154,2025-11-18,Expense,Travel,3237,Net Banking,Hotel Booking,Mumbai,Primary Savings,0,Lifestyle
+500652,2025-11-19,Expense,Healthcare,897,UPI,Hospital Visit,Mumbai,Primary Savings,0,Essential
+500303,2025-11-20,Expense,Transport,423,Credit Card,Ola,Mumbai,Credit Card Account,0,Essential
+500724,2025-11-21,Income,Interest,1087,UPI,Savings Bank,Mumbai,Salary Account,0,Income
+500216,2025-11-23,Expense,Rent,13869,Net Banking,Landlord Transfer,Mumbai,Salary Account,0,Essential
+500669,2025-11-24,Expense,Subscriptions,589,UPI,YouTube Premium,Mumbai,Primary Savings,0,Lifestyle
+501057,2025-11-24,Expense,Insurance,1588,Debit Card,LIC Premium,Hyderabad,Salary Account,0,Essential
+501070,2025-11-24,Expense,Entertainment,722,Net Banking,Spotify,Mumbai,Primary Savings,0,Lifestyle
+500687,2025-11-25,Expense,Insurance,1453,Debit Card,LIC Premium,Mumbai,Salary Account,0,Essential
+501127,2025-11-25,Expense,Entertainment,231,Cash,BookMyShow,Mumbai,Salary Account,0,Lifestyle
+500400,2025-11-26,Expense,Rent,13861,Credit Card,Landlord Transfer,Delhi,Credit Card Account,0,Essential
+500521,2025-11-27,Expense,Shopping,1221,Net Banking,Local Mall,Mumbai,Salary Account,0,Lifestyle
+500748,2025-11-28,Income,Interest,313,Net Banking,Savings Bank,Pune,Primary Savings,0,Income
+500239,2025-11-29,Expense,Transport,301,UPI,Uber,Mumbai,Salary Account,0,Essential
+500116,2025-12-01,Income,Salary,73343,Debit Card,Employer Inc.,Mumbai,Salary Account,0,Income
+501001,2025-12-01,Expense,Loan EMI,5246,Debit Card,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500484,2025-12-02,Expense,Rent,13534,Credit Card,Landlord Transfer,Mumbai,Credit Card Account,0,Essential
+500282,2025-12-03,Expense,Subscriptions,419,Credit Card,Amazon Prime,Mumbai,Credit Card Account,0,Lifestyle
+501133,2025-12-04,Expense,Loan EMI,3423,UPI,Bank Loan Dept,Mumbai,Salary Account,0,Essential
+500443,2025-12-04,Expense,Shopping,304,Credit Card,Flipkart,Mumbai,Credit Card Account,0,Lifestyle
+500467,2025-12-05,Expense,Travel,4636,Cash,IRCTC,Mumbai,Salary Account,0,Lifestyle
+500117,2025-12-05,Expense,Rent,13053,Net Banking,Landlord Transfer,Mumbai,Primary Savings,1,Essential
+500118,2025-12-07,Expense,Loan EMI,5298,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,1,Essential
+500728,2025-12-11,Expense,Shopping,470,UPI,Local Mall,Mumbai,Salary Account,0,Lifestyle
+500598,2025-12-15,Expense,Loan EMI,4144,Net Banking,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500889,2025-12-15,Expense,Healthcare,1370,Cash,Apollo Pharmacy,Mumbai,Salary Account,0,Essential
+500561,2025-12-16,Expense,Travel,4699,Credit Card,Hotel Booking,Mumbai,Credit Card Account,0,Lifestyle
+500562,2025-12-16,Expense,Rent,12162,UPI,Landlord Transfer,Mumbai,Primary Savings,0,Essential
+501104,2025-12-16,Expense,Dining Out,333,Debit Card,Local Restaurant,Hyderabad,Primary Savings,0,Lifestyle
+500811,2025-12-17,Expense,Loan EMI,2619,Credit Card,Bank Loan Dept,Mumbai,Credit Card Account,0,Essential
+500237,2025-12-18,Expense,Loan EMI,4168,UPI,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+501084,2025-12-19,Expense,Shopping,651,UPI,Local Mall,Mumbai,Primary Savings,0,Lifestyle
+500498,2025-12-22,Expense,Dining Out,399,Net Banking,Local Restaurant,Mumbai,Primary Savings,0,Lifestyle
+500233,2025-12-22,Income,Freelance,4955,Credit Card,Fiverr,Pune,Credit Card Account,0,Income
+500368,2025-12-22,Expense,Dining Out,705,Credit Card,Cafe Coffee Day,Mumbai,Credit Card Account,0,Lifestyle
+500989,2025-12-23,Expense,Utilities,715,UPI,Electricity Board,Mumbai,Salary Account,0,Essential
+501166,2025-12-23,Expense,Healthcare,325,Debit Card,Diagnostic Lab,Mumbai,Salary Account,0,Essential
+501217,2025-12-24,Expense,Shopping,1658,Cash,Myntra,Bengaluru,Salary Account,0,Lifestyle
+500472,2025-12-24,Expense,Education,1689,Credit Card,Coursera,Mumbai,Credit Card Account,0,Essential
+501206,2025-12-26,Expense,Loan EMI,4541,UPI,Bank Loan Dept,Mumbai,Primary Savings,0,Essential
+500119,2025-12-28,Income,Bonus,11645,Net Banking,Employer Inc.,Mumbai,Salary Account,0,Income
+500466,2025-12-29,Expense,Insurance,1948,Net Banking,Health Insurance Co,Mumbai,Salary Account,0,Essential
